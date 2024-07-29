@@ -1,0 +1,1538 @@
+^1^ Posgrado en Desarrollo rural Universidad Autónoma Metropolitana,
+México.
+
+# Introducción
+
+# Problemática
+
+La influencia del paradigma del Desarrollo Sostenible (DS) y el Enfoque
+Ecosistémico del desarrollo (EE) ha llevado a la valoración económica de
+los servicios ecosistémicos, con el riesgo de continuar legitimando la
+privatización de bienes comunes. En este contexto, se observa un choque
+entre los saberes ambientales arraigados en las comunidades locales y
+las representaciones institucionales y corporativas sobre el territorio.
+
+Las subregiones del Bajo Sinú y Zona Costanera, en la desembocadura del
+río Sinú, ubicadas en la Región Caribe colombiana, se caracterizan por
+la presencia de humedales, ecosistemas estratégicos que han sido objeto
+de disputa entre diferentes actores, incluyendo pescadores artesanales,
+comunidades locales, instituciones estatales y empresas privadas.
+
+Las comunidades de pescadores artesanales poseen saberes ancestrales y
+prácticas tradicionales que les permiten comprender y gestionar su
+entorno de manera sostenible. Sin embargo, estas formas de conocimiento
+no son reconocidas ni valoradas en la práctica, al terminar en un lugar
+secundario en los mecanismos institucionales que dispone el Estado para
+materializar las visiones de desarrollo que resultan del juego de
+fuerzas entre las posiciones de los diferentes actores.
+
+Las disputas entre formas de conocimiento no solo implican diferencias
+en la apreciación del valor de los servicios ecosistémicos, sino que
+también se manifiestan en las prácticas de ordenamiento del territorio.
+La investigación se propone profundizar en estas tensiones,
+proporcionando una visión crítica que vaya más allá de las
+representaciones económicas predominantes, con el objetivo último de
+contribuir a un enfoque crítico en la gestión del territorio y los
+bienes naturales.
+
+En resumen, las comunidades del Bajo Sinú y la Desembocadura no solo son
+víctimas de la crisis, sino también agentes de transformación. Sus
+propuestas, basadas en su conocimiento y experiencia ancestral, ofrecen
+alternativas a los modelos hegemónicos de desarrollo. Sin embargo, el
+Estado no ha apoyado estas iniciativas y, en muchos casos, ha sido un
+factor que ha agravado la situación.
+
+## Planteamiento del problema
+
+En el contexto actual de crisis ambiental y cambio climático, la región
+del Bajo Sinú enfrenta desafíos relacionados con la degradación
+ambiental, la pérdida de biodiversidad y la vulnerabilidad social. En
+este contexto, se observa una disputa entre las visiones de desarrollo
+hegemónicas, impulsadas por las instituciones y el Estado,
+principalmente enfocadas en la conservación y la valoración económica de
+los servicios ecosistémicos, y las visiones alternativas basadas en los
+saberes ambientales locales de los pescadores artesanales. Estas
+tensiones se observan tanto en las prácticas de ordenamiento del
+territorio de las familias pescadoras, como en las intervenciones
+institucionales para la implementación de cambios sociales dirigidos en
+el marco de proyectos de adaptación al cambio climático.
+
+De esta manera, tanto las ideologías que expresan los discursos
+hegemónicos del desarrollo, como las posturas contrahegemónicas
+expresadas en los saberes ambientales locales, tienen como escenarios o
+arenas de disputa los territorios locales rurales donde habitan las
+familias de pescadores artesanales. También tienen lugar en los espacios
+de encuentro propiciados por los proyectos de adaptación al cambio
+climático y ordenamiento ambiental-territorial en el Bajo Sinú, como el
+proyecto "Conexión biocarible" liderado por la FAO que opera en la
+Región Caribe desde 2017 con una proyección a 2030. En esos espacios
+constituidos por talleres, procesos de formación, proyectos de
+intervención para fomentar la transición de la vocación socioeconómica
+de las comunidades locales, espacios de construcción de políticas
+públicas nacionales y regionales, procesos de ordenamiento ambiental y
+territorial, entre otros, es donde se construyen visiones del desarrollo
+que quedan condensadas tanto en los textos como en otras materialidades
+que configuran a las instituciones del Estado, entendido como la escala
+donde se concretan y concentran "distintos tipos de capital"
+[@bourdieuRazonesPracticas1997].
+
+Así, la investigación participativa para el análisis de estos procesos
+de interacción entre pescadores y otros actores en el marco de estos
+proyectos permite identificar hasta qué punto se permean unas a otras
+las posturas en las visiones de desarrollo subregional y regional
+resultantes.
+
+## Contexto territorial
+
+La investigación se desarrollará en dos lugares de la subregión
+costanera o de la desembocadura del río Sinú: el area protegida de los
+Distritos de Manejo y Conservación de Suelos (DMCS) de las Ciénagas de
+Bañó y Los Negros en la Vereda (localidad rural) de Cotocá Arriba,
+municipio de Lorica, y la zona de la cuchilla de Cispatá en el área
+protegida del Distrito de Manejo Integrado (DMI) del Delta y zona
+estuarina, en el municipio de San Bernardo de Viento, Departamento
+(Estado) de Córdoba, Región Caribe colombiana.
+
+En esta Provincia Costanera, integrada por los municipios de Canalete,
+Los Córdobas, Moñitos, Puerto Escondido, San Antero y San Bernardo del
+Viento, resulta de especial interés la mirada sobre la zona de la
+desembocadura del Río Sinú, especialmente los municipios de Lorica y San
+Bernardo del Viento, donde también se encuentran pequeñas elevaciones
+montañosas conocidas localmente como la "Cuchilla de Cispatá". Esta zona
+hace parte de las áreas protegidas de los Distritos de conservación de
+suelos de las Ciénagas de "Bañó" y "Los Negros", y del "Distrito de
+Manejo Integrado de los recursos naturales, en los manglares de la Bahía
+de Cispatá, delta de Tinajones, La Balsa y áreas aledañas", colindantes
+con el Complejo Cenagoso del Bajo Sinú, área protegida del "Distrito de
+Manejo Integrado de los recursos naturales de la Cieńaga Grande del Bajo
+Sinú".[^1]
+
+![localizacion de la
+investigación](https://ia904701.us.archive.org/7/items/Agua-contando-historias/doctorado-localizacion.jpg){fig:localizacion
+width=50%}
+
+El área de la desembocadura presenta algunas características distintas y
+una relación particular con el agua con respecto al Bajo Sinú, por una
+parte, porque se encuentran en un ecosistema distinto dominado por las
+aguas saladas y salobres, dada su cercanía al océano, hecho que ha
+marcado un perfil cultural y productivo distinto donde ha resultado
+significativa la actividad del cultivo tradicional del arroz por parte
+de las comunidades campesinas, la pesca a mar abierto, y en el área
+donde persiste, desde tiempos prehispánicos, una de las mayores
+extensiones de canales y diques hechos con técnicas de restauración del
+sistema hidráulico de la cultura zenú en los corregimientos de Caño
+Grande y Sicará (municipio de San Bernardo del Viento)
+[@rojasOrganizadosEscenarioAnfibio2019, 110] . Adicionalmente, allí
+surgieron los primeros conflictos agrarios y territoriales en las
+décadas de 1940 y 1960 que motivaron migraciones hacia la Provincia del
+Bajo Sinú, que a su vez, influyeron en los movimientos sociales por la
+lucha agraria en los años 70 y 80.
+
+La desembocadura ha sido fuente también, de otros movimientos
+migratorios surgidos en décadas recientes provocados por la escasez de
+peces y la creciente salinización del agua, provocadas por el
+agravamiento de las afectaciones ambientales de la represa de Urrá (en
+la cuenca alta desde el 2000) teniendo como efecto presiones adicionales
+sobre el ecosistema y otras poblaciones
+[@rojasOrganizadosEscenarioAnfibio2019; @integrantesdeasprocigGrupoFocal2023].
+Resulta de interés que el sector de la "Cuchilla de Cispatá", que es
+parte de esta misma Provincia Costanera, presenta como característica
+diferencial, la existencia de elevaciones en el relieve que oscilan
+entre los 200 y 250 metros sobre el nivel del mar, donde se dan
+relaciones distintas de las comunidades con el agua, en comparación con
+las que se pueden observar en la Provincia del Bajo Sinú. Allí en la
+Cuchilla, el ser anfibio está marcado, entre otras condiciones, por la
+escasez en el acceso al agua potable y por la distancia con respecto a
+los cuerpos de agua dulce de los humedales.
+
+La Provincia Costanera, ubicada estratégicamente frente al Golfo de
+Morrosquillo, se encuentra en el centro de una compleja dinámica
+territorial. Múltiples proyectos de transformación territorial, tanto
+legales como ilegales, coexisten en la región, generando un panorama
+desafiante para el desarrollo local. Las organizaciones sociales de la
+zona han adoptado una visión holística para comprender las dinámicas
+territoriales y promover un futuro más próspero y pacífico.
+
+Entre los proyectos más relevantes se encuentra el Pacto territorial
+Golfo de Morrosquillo[^2], una iniciativa que busca cerrar las brechas
+de desarrollo en la región y que actualmente ejecuta 11 obras de
+infraestructura en áreas como turismo, agua potable, saneamiento básico,
+salud, educación y transporte.
+
+No obstante, el desarrollo de la Provincia Costanera se ve limitado por
+la falta de acceso a agua potable y saneamiento básico, la baja calidad
+de la educación, la informalidad laboral y la presencia de grupos
+armados ilegales.
+
+En este contexto, el Acuerdo de Paz firmado entre el gobierno colombiano
+y las FARC-EP [@altocomisionadoparalapazAcuerdoFinal2016] abre nuevas
+oportunidades para la región. Aunque la Provincia Costanera no se
+encuentra dentro de los territorios priorizados como Programas de
+Desarrollo con Enfoque Territorial (PDET), el Pacto territorial Golfo de
+Morrosquillo busca responder a las necesidades de la población y
+contribuir a la construcción de una paz estable y duradera.
+
+Al tiempo se está dando cierre al deslinde de los humedales del área
+protegida de la Ciénaga grande del Bajo Sinú como bienes de uso público
+por parte de la Agencia Nacional de Tierras, proceso que estuvo en vilo
+por 40 años, y dará paso a nuevas acciones para el ordenamiento de los
+usos del territorio en toda el área de influencia. Juntos, son un reto
+para la construcción de paz, al requerir incorporar de manera equitativa
+distintos puntos de vista de actores con relaciones desiguales de poder,
+enfrentados a históricos conflictos socioambientales.
+
+La implementación exitosa del Pacto territorial, junto con el trabajo
+conjunto de las comunidades, las organizaciones sociales y las entidades
+estatales, serán claves para superar los desafíos que enfrenta la
+Provincia Costanera y construir un futuro más próspero y pacífico para
+la región.
+
+La Provincia Costanera también enfrenta otros serios desafíos. Uno de
+ellos lo constituyen los proyectos viales de interconexión de toda la
+Región Caribe que vinculan a este territorio, por su posición
+geoestratégica, y que históricamente han afectado gravemente el
+ecosistema y los modos de vida de las comunidades ligadas a los
+humedales para su subsistencia. Un ejemplo reciente es el proyecto de la
+variante Lorica de la Troncal del Caribe, un proyecto que ha generado
+controversia por su potencial impacto ambiental, que en un reciente
+capítulo judicial ha favorecido las pretensiones de las comunidades
+locales, logrando su suspensión.
+
+Además, la región se ve afectada por la presencia del Clan del Golfo, un
+grupo armado ilegal que ejerce control territorial y se dedica a
+actividades como el narcotráfico, el microtráfico, los homicidios, la
+extorsión y el reclutamiento forzado [Negrete (2014) citado por
+@cinep/pppTierraTerritorioDepartamento2016, 15].
+
+En el ámbito económico, la expansión de los cultivos de palma aceitera
+ha sido un fenómeno notable en los últimos años, impulsada por la crisis
+de la producción de arroz y la priorización de la palma por parte de la
+empresa privada con apoyo de las instituciones de gobierno regional y
+nacional, contribuyendo a este crecimiento la construcción de una planta
+extractora de aceite de palma en la región
+[@zumaqueDistritoRiegoDoctrina2020; @agenciadedesarrollorural-fao-gobernaciondecordobaPlanIntegralDesarrollo2021,
+47; @fedepalmaInfografiaPalmaAceite2019; @heraldoCordobaContaraCon2021].
+
+En esta región se observa la separación entre humano y naturaleza con
+gran magnitud. Existe una amplia producción académica que documenta los
+efectos de la crisis ambiental y las luchas sociales, desde las Ciencias
+físicas y sociales. Por su parte, las explicaciones y propuestas de los
+actores comunitarios tienen menor visibilidad. Un ejemplo son las
+diferentes lecturas sobre las causas de las inundaciones. Existen
+también diferentes perspectivas desde la academia y el Estado sobre la
+misma problemática.
+
+Las comunidades del Bajo Sinú y la Desembocadura no solo sufren las
+consecuencias de la crisis ambiental y social, sino que también proponen
+soluciones basadas en su conocimiento y experiencia. Sin embargo, el rol
+del Estado en la mayoría de situaciones ha sido la exacerbación de estos
+conflictos socioambientales y territoriales
+[@vasquezCaminosHaciaTransformacion2019]. Las diferentes políticas de
+desarrollo resultaron lesivas tanto para el ecosistema como para el
+ejercicio de derechos de las comunidades que obtienen sus medios de vida
+del mismo, tal como por ejemplo, quedó establecido por la Sentencia
+T-194 de 1999 de la @corteconstitucionalT194991999.
+
+# Justificación
+
+La presente investigación busca contribuir a la comprensión de las
+dinámicas de poder y las relaciones entre diferentes actores sociales en
+la construcción de visiones de desarrollo para la región. Es importante
+comprender cómo los saberes locales y las instituciones interactúan para
+poder construir modelos de desarrollo más justos y sostenibles.
+
+La propuesta de investigación centra sus aportes al debate académico en
+el campo del Desarrollo rural en tres aspectos principales:
+
+En primer lugar se plantea generar una metodología de análisis
+territorial de contextos de conflictividad socioambiental. Una propuesta
+metodológica de este tipo podría ser útil para el análisis de otros
+contextos con características similares.
+
+En segundo lugar, retomo la referencia hecha previamente a la
+transformación de las formas de abordaje y persistencia de las luchas
+que nacen en los territorios étnicos y campesinos tanto en el Sur como
+en el Norte Global, conocida como "giro ecoterritorial"
+[@svampaFronterasNeoextractivismoAmerica2019]. Considero necesario
+aportar a la reflexión ético-polítca acerca del alcance que puede o no
+tener dicha transformación en el campo de los Estudios rurales y del
+Desarrollo Rural, pues como afirman
+@temperTransformingKnowledgeCreation2016, el giro ecoterritorial no es
+sólo de las comunidades, también ha alcanzado a las ciencias sociales, e
+incluso las ciencias exactas lo están dando.
+
+Los autores se preguntan: *"¿Qué tipo de construcción de conocimiento
+puede aportar a la transformación que se necesita?*"
+[@temperTransformingKnowledgeCreation2016, 42] al reflexionar sobre la
+experiencia de co-diseño del Global Atlas of Environmental Justice,
+exponiendo algunas de las limitantes que un proceso como estos tiene en
+cuanto al alcance de la participación articulada entre activismo por la
+defensa territorial y la academia[^3].
+
+Así mismo, más adelante manifiestan que : *"los conflictos ambientales
+son luchas epistemológicas en las que son producidas y teorizadas formas
+otras de lo político, economías otras, conocimientos otros que
+cuestionan y reformulan las visiones hegemónicas del mundo"*
+[@temperTransformingKnowledgeCreation2016, 42]. Comprendo esta
+afirmación como una propuesta enmarcada en el enfoque decolonial, pues
+se afirma la relación con la alteridad o la otredad como la fuente del
+afloramiento de tensiones latentes que pueden actuar como magmas de
+transformación mucho más profundos a nivel de la construcción de
+conocimiento, en forma de herramientas o repertorios de cambio social.
+
+Esta investigación se propone plantear caminos para identificar otras
+formas de poner la investigación al servicio de la acción, y preguntarse
+"¿Dónde estoy yo en la foto? Cómo me implico?
+[@brydon-millerParticipatoryActionResearch2020], donde resulte una misma
+tarea incorporar los productos académicos con el activismo, ahondando
+también en la doble reflexividad.
+
+Centrar la atención en construir conocimiento para transformar lo que
+resulta destructivo para la vida ha llevado a quienes se identifican con
+la perspectiva decolonial a afirmar que el modo de producción
+capitalista no es la fuente o causa, sino la manifestación de la
+racionalidad y la visión instrumental del mundo que está detrás de ella
+[@grosfogelCaosSistemicoCrisis2016]. Por ello, los autores citados
+plantean que detrás de los conflictos ambientales están auténticas
+luchas civilizatorias, si se quiere, donde los conocimientos y las
+cosmovisiones están en juego, (de forma similar a lo planteado por Marc
+Augé en la Guerra de las imágenes). Pero también dicen que estas luchas
+ya vienen actuando y transformando esos puntos de vista que adolecen de
+pretensiones universalistas, permeando a la academia, uno de sus
+bastiones [@bourdieuRazonesPracticas1997].
+
+En esa línea, y como tercer aspecto, mi presencia en los territorios
+anfibios desde sus inicios en 2017 se ha planteado la incorporación de
+los planteamientos de la "ciencia ciudadana" y la "ciencia abierta"
+[@socientizeGreenPaperCitizen2021], buscando generar otras prácticas de
+conocimiento que releven el papel clave que tiene la producción de datos
+alternativos a los oficiales e institucionales, haciendo que las
+comunidades se transformen de vulnerables o "vulnerabilizadas" a sujetos
+colectivos. Sin embargo, es preciso anotar que lo planteado por estos
+autores no dista mucho de los planteamientos y experiencias ya
+reconocidas desde una ciencia comprometida en esta región, desde la
+década de 1970, reposicionada ahora por los nuevos acontecimientos de la
+Historia y las experiencias recientes con la emergencia de nuevas formas
+de participación en el contexto de la "Sociedad de conocimiento".
+
+Las transformaciones que hoy se vienen implementando y las que se
+proyectan sobre la cuenca baja del Río Sinú, en un contexto de crisis
+climática a nivel global, tendrá efectos duraderos sobre las nuevas
+generaciones de pobladores de estos ecosistemas, de tal manera, que
+evaluar las formas como se dan las interacciones entre las diferentes
+epistemologías en juego resulta pertinente por el agravamiento de las
+condiciones actuales en los medios de vida y condiciones para la
+permanencia de las comunidades.
+
+Las políticas de desarrollo que se implementan afectarán los derechos a
+nivel colectivo si repiten o profundizan las inequidades que han
+existido históricamente en estos territorios, si los nuevos enfoques se
+basan únicamente en dar continuidad a la incorporación de los bienes
+comunes a las cadenas de valorización de capital, pero en el marco de
+mercados emergentes a nivel especulativo como los bonos de carbono, o
+las acciones bajo la visión economicista de los servicios ecosistémicos
+y el mantenimiento de relaciones desiguales entre actores, a través de
+las cuales se sigan desconociendo los saberes y culturas ambientales
+locales.
+
+Las líneas de análisis geopolítico en discusión con los modelos de
+desarrollo se plantean también como herramientas prácticas que pueden
+promover procesos participativos que releven y aporten a los esfuerzos
+que hoy se siguen dando en muchos territorios del mundo, en busca de
+usos contrahegemónicos de los saberes científicos
+[@falsbordaInvestigacionParticipativaPraxis1981], acudiendo a los marcos
+de sentido autóctonos de los saberes locales, la visibilización y
+permanencia de otros modos de existencia frente los distintos paradigmas
+y enfoques que se encuentran detrás de las propuestas de ordenamiento de
+origen externo. Lo anterior resulta de apuestas por que no sean únicas
+las visiones de futuro que finalmente resulten en la recomposición
+territorial que viene sucediendo.
+
+Finalmente, el análisis de los enfoques del desarrollo desde los
+principios declarados hasta su implementación, podrá arrojar reflexiones
+necesarias desde el punto de vista ético, para integrantes de los
+Movimientos sociales que tienen lugar hoy. Este trabajo se sumaría a una
+gran cantidad de esfuerzos que se vienen dando para que sea desde las
+mismas comunidades locales que se lideren los procesos de ordenamiento
+territorial, para que los diseños resultantes no invisibilicen sus
+cosmovisiones, para que las contrapropuestas que generen sigan
+expresando una visión crítica y autocrítica, que resulten de ejercicios
+reflexivos que cuenten con herramientas de análisis que explícitamente
+se propongan el respeto por sus formas autóctonas de territorialización.
+
+La investigación-acción en busca de la valoración de la ciencia popular
+debería aportar a que los grupos sociales cuenten con igualdad de
+recursos para enfrentar las amenazas contra sus modos de existencia, y
+este enfoque encarnado en un trabajo de colaboración que *"enactúe"*
+[@longSociologiaDesarrolloPerspectiva2007] realmente hacia el compromiso
+y coherencia con esas realidades. Estas apuestas pueden llegar a
+transformar las visiones de forma conjunta, acercándose sin ingenuidades
+a un verdadero diálogo de saberes entre los distintos actores sociales,
+para que los que cuentan con mayores privilegios y poder, como empresas
+y corporaciones, así como funcionarios y funcionarias en los organismos
+multilaterales, o los encargados de la formulación de políticas públicas
+en las entidades del Estado colombiano, se vean frente a procesos
+organizativos fortalecidos, con capacidad de agencia que expresen a
+través de aportes, alertas y posicionamientos que sean ineludibles, que
+sigan obligando por diferentes vías a que en el cruce de las diferentes
+visiones que existen sobre el cambio social, reproduzcan cada vez menos
+impactos irreversibles como los que se observan en los contextos
+locales.
+
+# Pregunta de investigación
+
+¿Cómo se construyen las visiones de desarrollo en la interacción de
+pescadores artesanales y sus saberes ambientales con las instituciones
+en el marco de proyectos de adaptación al cambio climático, ordenamiento
+ambiental y territorial, en la desembocadura del Río Sinú, Departamento
+de Córdoba en la Región Caribe colombiana?
+
+Derivadas de la anterior surgen estas preguntas:
+
+-   ¿Cómo se están traduciendo estos saberes ambientales en prácticas
+    concretas de ordenamiento territorial?
+-   ¿En qué medida las decisiones de estas comunidades son mediadas
+    institucionalmente o se manifiestan de facto?
+-   ¿Qué implicaciones tienen estas disputas entre formas de
+    conocimiento para la implementación de esquemas de gestión ambiental
+    y territorial en el contexto más amplio de la cuenca baja del Río
+    Sinú?
+
+# Objetivos
+
+## Objetivo general
+
+Comprender los procesos de construcción de visiones de desarrollo en la
+interacción de pescadores artesanales y sus saberes con las
+instituciones, en el marco de proyectos de adaptación al cambio
+climático, ordenamiento ambiental y territorial, en la desembocadura del
+Río Sinú, Departamento de Córdoba en la Región Caribe colombiana.
+
+## Objetivos específicos
+
+1.  Caracterizar los actores y actantes, programas y antiprogramas, sus
+    relaciones e interacciones en el contexto territorial de la
+    desembocadura del Bajo Sinú.
+2.  Analizar los programas de desarrollo, ordenamiento ambiental y
+    territorial en los que participan los actores sociales en la cuenca
+    baja del Río Sinú, para comprender cómo se aborda el enfoque
+    ecosistémico y cómo interactúan los saberes y culturas ambientales
+    locales.
+3.  Comprender las interacciones entre los actores sociales y los
+    programas de desarrollo, ordenamiento ambiental y territorial en los
+    que participan.
+4.  Comprender la construcción de visiones de desarrollo en el marco de
+    las interacciones entre los saberes y culturas ambientales locales
+    frente al enfoque ecosistémico.
+
+# Marco conceptual
+
+Esta investigación aborda las relaciones entre los saberes y culturas
+ambientales locales en contextos de inequidades intrarregionales y los
+programas de desarrollo y ordenamiento territorial y ambiental, que
+generan interacciones a partir de condiciones históricas de injusticia
+ambiental y epistémica.
+
+Este punto de vista está fundamentado en los enfoques decolonialistas y
+específicamente, en la ontología política relacional y el enfoque de las
+Epistemologías del sur. Este enfoque implica un reconocimiento de la
+diversidad de formas de conocer, comprender, actuar y habitar el mundo,
+por lo cual se resalta el concepto de *epistemes* en plural, tal como lo
+menciona. Pero más allá, se trata de una *"orientación ético-política
+hacia un aprendizaje de la experiencia, el saber, y las luchas de grupos
+sociales subalternos, al menos equiparado con aquel de la Academia."*
+@escobarSentipensarConTierra2016 [13].
+
+Por ejemplo, el *"baldío"*, es una expresión ajena a las lógicas locales
+que está asociada a la expresión "tierras vacas" como noción del vacío,
+que invisibiliza al ecosistema-territorio al ser implantada en muchos
+contextos tropicales a partir de la colonización europea y que continuó
+su uso hasta nuestros días, afectando la relación simbiótica de la
+"socio-naturaleza" [@mayorgaPropiedadTierrasColonia2016].
+
+A continuación se presentan los referentes conceptuales más
+significativos para la presente investigación.
+
+``` mermaid
+
+graph TD
+  A[Crisis climática]
+  B[Saberes técnico-científicos]
+  C[Ideologías-Discursos del Dllo] 
+  D[Enf. Ecosistémico]
+  E[Epistemes] 
+  F[Interacción-Arenas]
+  G[Saberes Locales y Ambientales]
+  H[Actores]
+  I[Pescadores]
+  J[Técnicos]
+  K[Alt neguentrópicas-Okeios]
+  A --> E
+  E --> H
+  E --> C
+  E --> K
+  K --> G
+  H --> I
+  H --> J
+  I --> F
+  J --> F
+  B --> F
+  C --> D
+  D --> B
+  G --> I
+```
+
+## Epistemes
+
+En la actualidad, observamos dos tipos de conocimiento ambiental en la
+región: uno hegemónico, basado en las culturas anglosajonas y enfocado
+en la conservación, y otro alternativo, arraigado en el saber vivir y
+las ontologías de la diferencia, que busca comprender la crisis desde
+una perspectiva local y cultural
+[@leffSaberAmbientalSustentabilidad1998; @escobarCulturaDiferenciaOntologia2012].
+Ambos coexisten en un contexto de crisis civilizatoria, donde los
+"espacios habitados y vividos" del agua se convierten en escenarios de
+intensas disputas [@lefebvreProduccionEspacio2013].
+
+Según [@escobarSentipensarConTierra2016] "Simplemente, los saberes
+múltiples, o epistemes, se refieren a mundos u ontologías múltiples"
+(p.13). Para [@lawMakingMessMethod2003] sería equivalente al
+reconocimiento explícito de la existencia de la multiplicidad, de la
+ausencia manifiesta, es decir, de la incorporación en los procesos de
+construcción de pensamiento, y especialmente hacer parte del método
+científico social la posibilidad permanente de que lo que consideramos
+como real lo es en la medida de nuestra capacidad para comprenderlo y
+que existen cuantas realidades otras como diversas miradas tienen lugar
+en diversos mundos de vida.
+
+Las relaciones entre actores y sistemas en estos espacios determinan la
+vida a nivel estructural, pero también generan interacciones que activan
+la agencia [@longSociologiaDesarrolloPerspectiva2007]. Estas
+interacciones se manifiestan como negociaciones sobre la incorporación
+de los bienes naturales a la acumulación de capital, con nuevos
+parámetros, normas y protocolos que buscan mitigar el daño ambiental y
+cultural. Sin embargo, estas medidas son impuestas por las instituciones
+hegemónicas, lo que genera disputas por la legitimidad del conocimiento
+ambiental.
+
+En este contexto, la permanencia de las formas de conocimiento y
+prácticas locales, es un elemento crucial para comprender la dinámica
+ambiental de la región. Su arraigo en la memoria colectiva y su
+capacidad para generar agencia son claves para afrontar la crisis
+civilizatoria y construir alternativas al modelo hegemónico.
+
+Las negociaciones por la incorporación de los bienes comunes a la
+acumulación de capital son complejas. Los sujetos locales no son pasivos
+y se posicionan a través de múltiples estrategias frente a las
+instituciones sociales en diferentes escenarios (local, regional y
+global). Entre estas instituciones encontramos autoridades ambientales
+del Estado colombiano, ministerios, entes territoriales, ONG, empresas y
+corporaciones privadas.
+
+En el Bajo Sinú y la desembocadura se han desarrollado procesos
+comunitarios que han construido marcos de acción colectiva para ejercer
+sus territorialidades. Estos marcos se han transformado a partir de una
+apropiación local particular de lo que
+@svampaFronterasNeoextractivismoAmerica2019 llama "giro ecoterritorial"
+de las luchas, enfocándose en la justicia hídrica, ambiental, epistémica
+y social a la vez que no renuncian a las luchas por el acceso a la
+tierra.
+
+Las plataformas de organizaciones de segundo y tercer nivel trabajan
+para comprender las relaciones de poder en las que se encuentran
+inmersos, y para reapropiarse de los saberes ambientales y ponerlos en
+juego en la disputa por el poder. Buscan ser validados por otros saberes
+y actores con mayor poder relativo.
+
+Esta reapropiación de saberes tiene un contenido práctico, ya que puede
+ser utilizada para comprender las prácticas y tecnologías de producción
+y consumo mediadas por la cultura. Estos saberes pueden ser vitales como
+respuestas y alternativas de producción "neguentrópicas", en palabras de
+Leff [@leffSaberAmbientalSustentabilidad1998]. Así mismo, estas
+reapropiaciones dialogan con la imagen del "Oikeios" de Moore
+[@mooreCapitalismoTramaVida2020], que se refiere a la trama de
+relaciones entre humanos y no humanos que sostienen la vida.
+
+## Ideologías y discursos del desarrollo
+
+Analizar el enfoque ecosistémico a partir de la categoría "ideología del
+desarrollo" permite acudir al sentido relacional brindando una base para
+abordar el discurso desde tres elementos para caracterizarla: las
+creencias, las subejtividades y los valores, que generan y reproducen un
+"cierto orden social", observable tanto a nivel individual como
+institucional. De esta manera, abordar desde la presente investigación
+los debates sobre las distintas posturas frente al desarrollo son
+pertinentes para esta investigación, pues es esa conciliación en las
+definiciones la que termina siendo letal para las culturas y los
+ecosistemas. En palabras de @gudynasDebatesSobreDesarrollo2011
+
+> *"La categoría ideología es aquí entendida en un sentido relacional,
+> brindando una base de organización para las creencias, subjetividades
+> y valores de los individuos con lo que se genera y reproduce un cierto
+> orden social en sus múltiples dimensiones, desde lo individual a lo
+> institucional (Eagleton, 1991)"* @gudynasDebatesSobreDesarrollo2011
+> [20]
+
+En la década de 1950 surge el paradigma de la modernización, que condujo
+a relaciones de dependencia y proyectos de *"desarrollo del
+subdesarrollo"* en términos de André Gunder Frank citado por
+@mariniDialecticaDependencia1974. Ante las evidentes contradicciones y
+estragos de la revolución verde, a finales de la década de 1980, y en el
+contexto de la emergencia del neolibralismo en el Norte global, inicia
+una transición hacia el paradigma ecosistémico, según lo describen
+@sutinenFrameworkMonitoringAssessing2005 [27]; pero a pesar de los
+esfuerzos por superar las contradicciones, estas parecen persistir a
+pesar de los esfuerzos por matizarlo. Este enfoque es definido como:
+*"una estrategia para el manejo integrado de la tierra, el agua y los
+recursos vivos, promoviendo su conservación y uso sostenible de forma
+justa y equitativa. Es el esquema principal para la acción bajo el
+Convenio de Diversidad Biológica (CDB) y comprende 12 principios. Se han
+efectuado varios intentos para clasificar estos principios, sea por
+orden de importancia o por tema, con el fin de buscar la mejor forma
+para su aplicación"* [@andradeperezEnfoqueEcosistemicoCinco2006].
+
+Es a partir de 1995 que el paradigma ecosistémico toma protagonismo con
+el impulso dado por el Banco Mundial en asocio con el Global Environment
+Facility (GEF)[^4]. De este proceso surge también la adopción del modelo
+de gestión de grandes ecosistemas marítimos o LME (Large Maritim
+Ecosystems), clasifica como estratégicos a 66 de estos ecosistemas en el
+mundo, distribución territorial en la cual la cuenca del Sinú hace parte
+del ecosistema marítimo número 12, del Mar Caribe
+[@sutinenFrameworkMonitoringAssessing2005, 29].
+
+Esta selección y distribución responde a una estrategia de atención a la
+grave amenaza que representa el deterioro ambiental de estos ecosistemas
+de los cuales depende el 90% de la producción mundial a nivel marítimo,
+especialmente por la extracción de recursos pesqueros
+[@LargeMarineEcosystems].
+
+Sin dejar de ver los principios de este enfoque en su conjunto, me
+permito resaltar los dos últimos que indican, por su pertinencia para la
+presente propuesta:
+
+> 11. En el enfoque ecosistémico deberían tenerse en cuenta todas las
+>     formas de información pertinente, incluidos los conocimientos, las
+>     innovaciones y las prácticas de las comunidades científicas,
+>     indígenas y locales.\
+> 12. En el enfoque ecosistémico deben intervenir todos los sectores de
+>     la sociedad y las disciplinas científicas pertinentes.
+
+[@andradeperezEnfoqueEcosistemicoCinco2006]
+
+Pero antes de convertirse en dominante, este paradigma influyó
+tempranamente en la orientación tanto de la investigación académica como
+en el diseño e implementación de políticas públicas. Al hacer parte de
+los temas centrales de la Conferencia de Rio de Janeiro sobre el medio
+ambiente en 1993, en cuya declaración la expresión "desarrollo
+sostenible" aparece 12 veces y se hace especial énfasis en el Principio
+7 [@nacionesunidasDeclaracionRioSobre1992], sirvió como referente para
+una de las normas más importantes a nivel ambiental en Colombia, la Ley
+99 de 1993, que en respuesta a los compromisos establecidos en dicha
+conferencia, crea el Sistema Nacional Ambiental y las instancias
+generales para su gestión descentralizada a través de las Corporaciones
+Autónomas Regionales.
+
+En esta norma se definen los tipos de áreas protegidas para el país, de
+las cuales se destaca la referencia al paradigma en mención en cuanto a
+las zonas de reserva forestal que cuentan con el mayor nivel de
+protección: "Extensiones territoriales que, por la riqueza de sus
+formaciones vegetales y la importancia estratégica de sus servicios
+ambientales, son delimitadas y oficialmente declaradas como tales por el
+Estado, con el fin de destinarlas exclusivamente a la conservación y
+desarrollo sustentable" [@congresodelarepublicaLey9919931993][^5].
+
+### El paradigma del enfoque ecosistémico en el contexto local
+
+El enfoque ecosistémico de desarrollo se declara como resultado de
+consensos entre distintos países y actores a nivel global para encontrar
+posibles salidas a la crisis ambiental y civilizatoria que atraviesa la
+humanidad. Aplicando una visión universalista de los derechos humanos,
+sufre de las contradicciones propias que se deben enfrentar en todo
+proceso de negociación política multiactor. Es común que se ignore el
+contexto de producción de las declaraciones, convenciones y demás
+acuerdos multilaterales, especialmente los problemas éticos que
+enfrentan, que en lo básico se resuelven incorporando dos perspectivas:
+Por un lado se plantean metas desde un deber ser, la aplicación
+universal de los derechos humanos (perspectiva deontológica), y por el
+otro, incorporan elementos y soluciones pragmáticas basadas en la
+inclusión y satisfacción de múltiples actores e intereses (perspectiva
+consecuencialista) [@rodriguezpuentesAccionSinDano2012].
+
+(deverde) Así lo plantea @gudynasDebatesSobreDesarrollo2011 [30] al
+afirmar que este dilema fue resuelto a través de un "giro conciliador"
+entre la "vieja oposición entre crecimiento y conservación". Como
+resultado, las directrices de pretensión universal que incorporan todas
+estas posiciones, a pesar de todos los esfuerzos, terminan operando bajo
+una dualidad que en muchos de los casos se resuelve a favor de los
+intereses con mayor poder de representación. Una característica evidente
+de las contradicciones es que estos programas de largo plazo terminan
+inevitablemente orientados por los organismos multilaterales encargados
+de dirigir las políticas económicas de los países miembros a nivel
+global, es decir, la banca multilateral global y regional y sus tanques
+de pensamiento. Como consecuencia resulta por lo menos compleja su
+aplicación de forma leal a los principios declarados, lo cual puede
+observarse al analizar en detalle los impactos de su operación,
+especialmente en los contextos locales.
+
+Planteamientos que surgen del paradigma ecosistémico, como el enfoque de
+los recursos y servicios ecosistémicos, terminan siendo permeados por un
+lenguaje y unos dispositivos que buscan conciliar de alguna manera dos
+racionalidades distintas como son: por una parte, la racionalidad
+instrumental moderna, el modo de producción capitalista, el modelo
+económico neoliberal; y por otra, las condiciones básicas para la
+reproducción de la vida en el planeta. Me permito hacer una mirada
+panorámica de la escala global a la local sobre la trayectoria de
+operacionalización de este paradigma con el fin de definir en lo
+concreto el problema de investigación.
+
+En cumplimiento de lo planteado por el Sistema Nacional Ambiental se
+formula la Política nacional para la gestión integral de la
+biodiversidad y sus servicios ecosistémicos (PNGIBSE)
+[@ministeriodemedioambientePoliticaNacionalPara2012].
+
+Aplicando este mismo enfoque, en 2019, la oficina de las Naciones Unidas
+para la Alimentación y la Agricultura (FAO) en Colombia, entregó al
+Estado colombiano el "Estudio de valoración multicriterio de servicios
+ecosistémicos y propuesta de aplicación de incentivos para la
+conservación y producción sostenible", que seleccionó 5 ecosistemas
+estratégicos del Caribe Colombiano que define como "mosaicos", entre los
+cuales se encuentran: Urabá (Antioquia, Córdoba, Chocó), San Onofre
+(Sucre), Marino Costero (Golfo de Morrosquillo) y Bajo Sinú, de las
+cuales se destacan las dos últimas como parte de la localización de la
+presente propuesta de investigación.
+
+A pesar de la mención reiterada de un enfoque integral y multicriterio,
+en el documento se describe cómo la orientación del estudio responde a
+un plan de mediano y largo plazo que busca dar relevancia a la
+cuantificación y gestión de los servicios ecosistémicos para "determinar
+un capital natural":
+
+> *En efecto la valoración económica aparece como un método para
+> viabilizar la trayectoria del sistema socioecológico hacia la
+> sostenibilidad financiera de la gestión de la biodiversidad. Sin
+> embargo, es un proceso paulatino, dispendioso y costoso, que requiere
+> levantamiento de gran cantidad de información que no es posible asumir
+> si se requiere determinar un capital natural (Bello et al., 2013). Por
+> lo cual este enfoque, además debe reconocer que cada mosaico es un
+> instrumento de gestión en el que coinciden diferentes categorías de
+> conservación y tipos de actores sociales e institucionales, que
+> perciben beneficios directos e indirectos de los servicios ambientales
+> (FAO, 2017).*
+
+[@ochoaEstudioValoracionMulticriterio2018, 12]
+
+De esta manera, las tareas de ordenamiento del territorio que vienen
+haciendo los pescadores artesanales y sus organizaciones como la
+Federación Nacional de Pescadores, Capítulo Córdoba (FEDEPEC), parecen
+encontrarse en el espacio-tiempo con la materialización de otras
+representaciones sobre el territorio, como las incorporadas por los
+actores externos, en las que estaría primando la mirada desde el
+paradigma del enfoque ecosistémico: la clarificación de los derechos de
+propiedad y uso de la tierra y el territorio, y el ordenamiento
+ambiental y social del uso del ecosistema, la introducción de la gestión
+de "capitales naturales".
+
+## Saberes ambientales locales y las epistemologías del Sur
+
+A 21 años de la Cumbre de Río, encuentro la necesidad de valorar de
+forma crítica los planteamientos que se hacen alrededor del ordenamiento
+ambiental y territorial desde los actores externos, en la medida en que
+se asiste desde distintos ámbitos (espacios de diálogo multiactor,
+políticas, planes y proyectos) a la implementación in situ de este
+paradigma, con la expectativa de poder dejar plasmado en las hojas de
+ruta para los próximos años la visión de los habitantes y querientes de
+toda la cuenca baja del Río Sinú, es decir, lograr una participación
+real y no sólo refleja de las representaciones institucionales y
+corporativas sobre el territorio por causa de las disparidades en las
+relaciones de poder.
+
+De esta manera, se plantea como un problema epistemológico, es decir,
+del conocimiento en acción, pues la situación actual viene en una
+trayectoria, como se ha podido ilustrar, que proviene de un
+procedimiento político-técnico que instauró en el sistema-mundo un nuevo
+paradigma conocido también como el de Desarrollo Sostenible y su
+variable de Desarrollo Sustentable (DS), que de acuerdo con
+@islaEnverdeciendoCapitalismoGuerra2016 responde a una maniobra de
+vincular la ecología con el desarrollo económico:
+
+> *Esto significa que los bienes comunes ecológicos, como la atmósfera,
+> océanos y mares, forestas, montañas, biodiversidad, ecosistemas, agua
+> etc., necesitan tener precio como capital natural (Hamilton 2001);
+> este acuerdo legitimó la privatización de los bienes comunes
+> ecológicos a través del enclaustramiento. La Cumbre de 1992 también le
+> dio al Banco Mundial el poder de avanzar sus prescripciones para
+> manejar la política ecológica del capital global.*
+
+[@islaEnverdeciendoCapitalismoGuerra2016, 20]
+
+Esta preocupación y crítica al paradigma de desarrollo sustentable (DS)
+y el enfoque ecosistémico es compartida por autores como
+[@martinez-alierEnvironmentalismPoorStudy2002] quien haciendo referencia
+a la "ecología de los pobres", y buscando precisar el objeto de la
+economía ecológica, muestra ejemplos de la facilidad con que la idea de
+los servicios ecosistémicos puede ser reducida a una valoración
+económica que excluye "valores incuantificables"
+[@martinez-alierEnvironmentalismPoorStudy2002, 18].
+
+Por su parte [@escobarDesignsPluriverseRadical2019] plantea igualmente
+una visión crítica de la idea del Desarrollo Sustentable como una meta
+universal. En esa lógica, su crítica al enfoque de servicios
+ecosistémicos reside en el rechazo a la idea de que la
+"socio-naturaleza" sea valorada principalmente en términos económicos,
+lo cual fortalece la interpretación de esa visión del desarrollo como
+una nueva cara del viejo paradigma del crecimiento
+[@escobarDesignsPluriverseRadical2019, 61, 147].
+
+Existe un cúmulo de análisis y propuestas de alternativas al desarrollo
+basadas en la economía y la ecología política. Estas buscan develar las
+causas de la actual etapa del capitalismo, incluyendo las posturas del
+decrecimiento y el postdesarrollo
+[@escobarDecrecimientoPostdesarrolloTransiciones2015].
+
+La degradación de la vida en el planeta se ha denominado como crisis
+civilizatoria [@grosfogelCaosSistemicoCrisis2016]. Las ciudades, cada
+vez más pobladas, acumulan vulnerabilidades por las transformaciones
+antropogénicas que ponen en riesgo ciclos básicos para la vida como el
+aire, el agua y la energía. Estas "apropiaciones", como las llama Moore
+[@mooreCapitalismoTramaVida2020, 33], son en realidad procesos de
+dominación.
+
+Es necesario problematizar la racionalidad cartesiana que separó al
+humano de la "socio-naturaleza" e impuso la ciencia como aliada del
+capital y el biopoder. Las relaciones con el agua son un ejemplo de la
+ruptura causada por la racionalidad instrumental y las epistemologías de
+la negación [@escobarCulturaDiferenciaOntologia2012].
+
+(deverde) Para @desousasantosNuestraAmericaFormulacion2003 identifica
+cinco áreas de disputa contrahegemónica (p.83), en las cuales los
+sujetos silenciados están llamados a una "sociología de las ausencias"
+con la cual pueden hacer usos contrahegemónicos del conocimiento
+científico, para hacer frente a la existencia histórica de "injusticias
+congnitivas", que han llevado al "epistemicidio"
+[@desousasantosEpistemologiaReinvencionConocimiento2009, 113]. Si bien
+las Epistemologías del Sur son atribuidas a Sousa Santos, otros
+científicos y activistas sociales venían tratando el tema desde la
+praxis como lo ejemplifica la experiencia colectiva de la recuperación
+crítica de la "comunalidad" en el Estado de Oaxaca en México
+[@aquinoComunalidadComoEpistemologia2013].
+
+@falsbordaInvestigacionParticipativaPraxis1981 se pregunta y se
+compromete con los procesos que Gramsci llama"el buen sentido"
+[@betancourtGramsciConceptoBloque1990], para quien la capacidad
+colectiva de interpretación de la realidad y la historia al ser
+fortalecida se transforma en "filosofía natural". De esta manera el
+colombiano nos presenta una visión criolla que llamó "Ciencia popular",
+que tiene origen en una búsqueda constante por reducir "la distancia
+entre el trabajo material y el intelectual", lo cual comienza por el
+análisis crítico del contexto de la producción de conocimiento
+científico, su validación y la geopolítica en la cual está inmerso, es
+decir, su historicidad:. *"El concepto de verdad ya no parece fijo ni
+terminado, sino que se da desde una posición de poder que formaliza o
+justifica el conocimiento aceptable. Y esa aceptación va condicionada a
+visiones concretas de la sociedad política y su desarrollo"*
+[@falsbordaInvestigacionParticipativaPraxis1981, 24].
+
+Encuentro pertinentes estos elementos para posicionar el enfoque de la
+presente investigación por dos razones: en primer lugar el punto de
+vista de la persona que investiga y colabora, quien debe observar sus
+propias acciones y prestar atención a la facilitad con que puede
+terminar siendo "colono intelectual"
+[@falsbordaConferenciaSobreDesarrollo2006]; en segundo lugar, como
+elemento conceptual para abordar y comprender las interacciones entre
+los saberes y culturas ambientales locales con otros tipos de
+conocimiento.
+
+Si tomamos como ejemplo las políticas y actores del desarrollo rural
+relacionados con el extensionismo agrario, como la academia, las
+agencias de cooperación y las entidades del Estado que identifico con un
+rol de administradores del enfoque ecosistémico, tenemos la mirada
+clásica de este tipo de intervención que se encuentra atravesada por
+discursos que promulgan y dan materialidad a una u otra postura en la
+interacción con los productores agrarios, como puede ser el impulso,
+bien sea a la agroecología o la revolución verde, desde una posición de
+privilegio frente al otro saber.
+
+La expresión de Jhon Law (2011) que resalta
+[@escobarSentipensarConTierra2016] del "Mundo mundial o (One-World
+World)" en oposición al "Pluriverso", ejemplifica la imagen de
+cosmovisiones hegemónicas del mundo que desconocen e invisibilizan la
+existencia de muchas otras. Sin embargo, desde hace varias décadas
+vienen posicionándose expresiones de contrapeso de forma progresiva,
+permeando incluso las ciencias exactas, como lo ejemplifica Fals Borda
+en su mención al surgimiento del campo de la etnomatemática
+[@falsbordaConferenciaSobreDesarrollo2006], lugar desde el que se viene
+hablando de la existencia de por lo menos 1.200 tipos de pensamiento
+matemático en el mundo, de las cuales sólo una se ha impartido en las
+escuelas. Así mismo, la llamada "computación decolonial" comienza a
+reconocer estas diversidades. Este video lo plantea a pesar de la
+complejidad con que lo expresa el autor
+[@hurtadoComputacionDecolonialConversacion2020]. \].
+
+# La interacción de las culturas y saberes ambientales
+
+Los procesos de interacción de actores y sus saberes implican diferentes
+arenas y fuerzas que se ejercen mutuamente, de forma similar a como me
+permito plantear que ocurre en el contexto de las Provincias del Bajo
+Sinú y la Desembocadura. Estos contextos locales interactúan a
+diferentes escalas con el contexto internacional, desde donde se
+oscurecen o iluminan, alientan o desalientan las diferentes
+cosmovisiones o modos de existencia.
+
+> *Por supuesto, una arena o campo social se construye discursivamente y
+> se delimita en la práctica mediante el uso del lenguaje y las acciones
+> estratégicas de los diversos actores. El grado de consenso alcanzado
+> en la definición de las situaciones requiere evidencia empírica. No se
+> puede dar por sentada una visión compartida. Los actores deben
+> trabajar entorno a una interpretación común o un acuerdo sobre los
+> puntos de vista y siempre hay posibilidades de disentir de ellas.*
+> [@longConstruccionMarcoConceptual2007, 50] Traducción propia.
+
+Así, los actores sociales filtran las situaciones que enfrentan en estas
+arenas de acuerdo a sus propios "marcos de sentido". Razón por la cual
+se habla de la existencia de "estructuras polimórficas", donde no tienen
+lugar exclusivamente intercambios económicos sino también de valores,
+por tanto en un mismo contexto económico-político pueden surgir
+múltiples formas de afrontar las situaciones problemáticas.
+
+Esta complejidad pone de presente la existencia de la hibridación social
+y el bricolaje, como parte de los repertorios que ponen en práctica los
+actores para enfrentar esas situaciones problemáticas. Aprender haciendo
+o "enacción" es la expresión usada por
+@longSociologiaDesarrolloPerspectiva2007 [49] para nombrar a estos
+arreglos. Así, podemos analizar las opciones tomadas por los actores
+sociales en las diferentes situaciones cotidianas donde tienen lugar las
+políticas que promueven, en nuestro caso, el enfoque ecosistémico en
+forma de discursos, es decir, baterías de significados corporalizados o
+encarnados llenos de representaciones, imágenes, narrativas y puntos de
+vista.
+
+Siguiendo con los elementos de análisis del enfoque ecosistémico, la
+promoción de un discurso particular viene acompañado del uso situacional
+de otros discursos, por ejemplo, las políticas neoliberales plantearon
+desde un principio la supuesta necesidad de dejar al mercado hacer su
+trabajo, acompañada de discursos para brindar asistencia a los más
+pobres y en desventaja. Así, las políticas de ajuste estructural vienen
+junto a otras de asistencia social bajo discursos de "equidad",
+"participación", atención a los problemas de"marginación", de forma
+similar a lo observado en las respuestas institucionales ante las
+afectaciones por la represa de Urrá en el año 2000 en toda la cuenca del
+Sinú.
+
+Este tipo de discursos puede encontrarse también en el caso que nos
+ocupa, por ejemplo, en los documentos institucionales que dejan ver una
+visión de recursos ecosistémicos que deben ser cuantificados y unas
+comunidades que deben ser preparadas para asumir el rol que se les ha
+asignado en esta nueva etapa de adaptación a una crisis climática, a la
+vez que los bienes comunes siguen siendo valorizados para ser tranzados
+en los mercados internacionales especulativos como los commodities o los
+bonos de carbono
+\[@agenciadedesarrollorural-fao-gobernaciondecordobaPlanIntegralDesarrollo2021;
+@\].
+
+(deverde) De esta manera, resulta relevante cuestionar si en el Bajo
+Sinú, lo que puede estar ocurriendo con proyección a futuro es que las
+Agencias del Desarrollo como la FAO, van a fomentar la apertura de
+nuevos mercados de tierras basados en la valorización de los servicios
+ecosistémicos. Por tanto, esto tendría efecto en el aumento de la
+especulación con el precio de la tierra en la región y la afectación del
+uso para producción de alimentos @federiciMujeresLuchasPor2013 [234].
+
+Dado que la presente investigación se centra en las epistemologías,
+propongo abordar el problema del despojo, no sólo desde el punto de
+vista material, sino también desde el punto de vista cultural. El
+despojo es ontológico cultural según Libia Grueso al pensar las culturas
+anfibias del Pacífico colombiano
+[@gruesocastelblancoComunidadNegraColombiana2012, 127].
+
+Como concepto marco partimos de la cultura anfibia, categoría propuesta
+por el sociólogo colombiano Orlando Fals Borda, quien la construyó a
+partir de un conocimiento situado que hace parte de los primeros aportes
+que dieron sustento a posturas emergentes de lo relacional y el
+relativismo cultural en el Sur Global. Desde un marxismo
+latinoamericano, Fals Borda presenta a la cultura anfibia como una
+manifestación de la superestructura, que no es, por tanto, el resultado
+de los procesos productivos sino que tiene una lógica propia que influye
+en ellos. Así, desde esta interpretación "culturalista estructural" se
+plantea que lo simbólico influye en aspectos como el tipo de tecnologías
+o formas de producción específicas o bien pueden caracterizarse por
+estructuras determinadas de tenencia de la tierra
+[@falsbordaHistoriaDobleCosta1979a, 21B].
+
+Sin embargo, en la investigación del caso del Bajo Sinú nos encontramos
+con miradas críticas desde las mismas comunidades y organizaciones de
+base sobre aquel concepto, por tanto, esta discusión es la que nos lleva
+a fijarnos de forma más global, sin dejar de estar centrada en lo
+concreto, sobre las culturas ambientales locales más allá del concepto
+de cultura anfibia, que no deja de estar presente en los territorios en
+los que nos encontramos. Lo anterior también permite pensar en construir
+una metodología de análisis territorial que pueda ser discutida en
+diferentes contextos, donde la dimensión anfibia, híbrida de los seres
+humanos se encuentra presente de una forma más implícita que en el
+Caribe colombiano, facilitando el diálogo con otras latitudes, contextos
+y realidades.
+
+Para @gimenezTeoriaAnalisisCultura2005 [393] las culturas tienen una
+serie de características que demuestran su carácter dinámico, híbrido y
+abierto: débilmente integradas, cuestionadas, sujetas a constante
+cambio, débilmente delimitadas. De forma específica, al hablar de
+cultura ambiental en la cuenca baja de Río Sinú, me refiero a su
+carácter diverso e histórico, de tal manera que es posible diferenciar
+los modos de habitar o dejar impronta
+[@heideggerConstruirHabitarPensar1956], de ser, de relacionarse con lo
+otro, entre un territorio y otro, así compartan condiciones ambientales
+similares. Así, al referirme a los saberes y las culturas ambientales
+estoy buscando determinar unos rasgos fundamentales a través del
+acercamiento a los sistemas de conocimiento que los sustentan, aunque
+dichas definiciones deban mantenerse como provisionales, precisamente
+atendiendo a su carácter fluido.
+
+> *"En estos lugares, vivir con el agua requiere conocimientos
+> ambientales detallados de las dinámicas cíclicas de las inundaciones,
+> así como elaboraciones tecnológicas para poder sacar provecho de ellas
+> en actividades como la pesca, la extracción y la agricultura (Cortesi
+> 2018; Ehlert 2012)"*
+
+[@camargoConvivirConAgua2019, 15]
+
+Hablar de la hibridación, que nombré inicialmente en relación con el
+concepto de enacción y bricolaje de
+[@longSociologiaDesarrolloPerspectiva2007], en el contexto de la
+presente investigación, que se propone observar los diálogos entre
+saberes y culturas en el contexto de políticas de ordenamiento
+territorial y de desarrollo, requeriría entonces, que indaguemos sobre
+la forma como se dan ordenamientos autóctonos del territorio, como
+expresión de los distintos "modos de existencia" que están en juego
+frente a los programas de "cambio dirigido".
+
+# Metodología
+
+## Estrategia metodológica
+
+Se propone la siguiente ruta metodológica:
+
+-   **Momento de alistamiento:** Se hará una convocatoria para la
+    socialización de la forma más amplia posible del nuevo proceso de
+    investigación, proponiendo espacios de diálogo con pescadores y
+    actores clave en la vereda Cotocá Arriba y la zona de la
+    desembocadura, donde pueda establecer la relación con los grupos de
+    personas que participan directamente en el proyecto "Conexión
+    biocaribe" y otros que aplican el enfoque ecosistémico.
+
+    -   Se proyecta la realización de un taller de análisis situacional
+        con actores clave del territorio al inicio de cada momento clave
+        del proceso. Se dará mayor detalle en el apartado de ética del
+        cuidado.
+
+    -   En el marco general de esta investigación se buscará poner sus
+        resultados al servicio de los actores sociales que participan,
+        por lo cual se buscará concertar con las organizaciones el
+        aporte por parte del investigador de un producto específico
+        derivado de la investigación. Por principio se trabaja en la
+        sistematización de datos abiertos que se pongan al servicio de
+        las comunidades, profundizando el ejercicio de devolución de
+        información que se ha llevado a cabo previamente que consiste en
+        la entrega de información organizada, puntualmente, relatos en
+        audio y video, documentos, bases de datos bibliográficas y los
+        textos editables de la investigación.
+
+-   **Momento de reconocimiento:** Dado que existe una relación previa
+    con la Provincia del Bajo Sinú, se trabajará en un primer momento en
+    el reconocimiento de la zona de la desembocadura de la Provincia
+    Costanera, en particular algunas veredas y corregimientos
+    identificados previamente en los espacios de los estuarios y el
+    delta de Tinajones, la zona elevada de la Cuchilla de Cispatá, para
+    lo cual se ha comenzado a trabajar más de cerca con la organización
+    ASPROCIG[^6].
+
+-   **Momento de diálogo y recuperación crítica de información:** Se
+    visualiza este momento como una acción que involucre al colectivo y
+    no sea solitaria del investigador. Por ello se nombra como
+    "recuperación crítica de la memoria colectiva" basado en lo
+    planteado por @falsbordaInvestigacionParticipativaPraxis1981. Se
+    abordarán jornadas de campo durante los periodos inter trimestrales
+    durante los dos primeros años de la investigación y posteriormente
+    se hará un traslado por temporadas más largas durante los dos
+    últimos años del programa, y en lo posible se proyecta vivir por una
+    temporada en la región.
+
+-   **Momento de sistematización y análisis**: Tendrá una parte de
+    trabajo individual por parte del investigador, pero se espera llegar
+    a construir un flujo de trabajo con el equipo coinvestigador
+    conformado previamente, con el cual se pueda trabajar en espacios de
+    reflexión de productos parciales de sistematización, como esquemas,
+    mapas mentales, narraciones descriptivas producto de la
+    sistematización de materiales en bruto, que puedan ser apropiados y
+    discutidos colectivamente y que puedan ser circulados de una forma
+    más amplia para recibir retroalimentación.
+
+-   **Momento de devolución**: Se programarán espacios regulares de
+    devolución con los actores clave de las comunidades y organizaciones
+    de cada Provincia, con los que se establezca contacto en los
+    momentos anteriores. Para ello se construirá una guía técnica de
+    validación y devolución que oriente este momento, cuyos resultados
+    serán incluidos en un capítulo del producto final de la
+    investigación, buscando relevar la voz de los actores dándoles un
+    lugar específico dentro del mismo.
+
+-   **Momento de ajuste y comunicación de resultados**: Se contará con
+    un directorio de actores comunitarios e institucionales para la
+    entrega de los productos finales. Se prevé la organización de
+    actividades de reflexión y socialización basadas en los principios
+    de la educación y la comunicación popular, así como la elaboración
+    de una publicación. El alcance de estos productos dependerá de las
+    alianzas y procesos de colaboración que puedan llegar a darse. Se
+    proyecta la posibilidad de elaborar un producto comunicativo
+    audiovisual inspirado y contextualizando en el presente los
+    principios planteados desde la IAP.
+
+### Ética del cuidado
+
+Dado que se aborda el trabajo en un contexto donde coexisten distintos
+actores en disputa, que la temática de la investigación aborda directa o
+indirectamente, y especialmente sensibles en la zona de la desembocadura
+donde ejercen control territorial actores armados, se tendrán como
+cuidados:
+
+-   Actualización y ampliación de la herramienta de análisis
+    situacional: Se propone la realización de un taller al inicio de
+    cada etapa, propiciando con una mayor claridad el establecimiento de
+    alianzas con actores locales, previa verificación de los posibles
+    mensajes éticos implícitos que puedan generar percepciones negativas
+    de la comunidad hacia el investigador por la lectura que hagan de su
+    participación o cercanía junto a algunos actores, especialmente con
+    los que son considerados "administradores o promotores de políticas
+    y proyectos de desarrollo" lega o ilegal.
+-   Se buscará establecer contactos y actualizar las acciones
+    institucionales, ONGs, otros investigadores, que puedan tenerse en
+    cuenta como medidas de protección o mitigación de riesgos para las
+    personas que intervienen y las organizaciones que abren la puerta
+    para realizar la investigación. Esta mirada de construcción de red
+    se profundizará a través de un plan específico contemplado en el
+    Análisis situacional.
+
+### Diseño metodológico
+
+**O.E. 1: Caracterizar los actores y actantes, programas y
+antiprogramas, sus relaciones e interacciones en el contexto territorial
+de la desembocadura del Bajo Sinú.**
+
+Para abordar este objetivo se propondrá una metodología de análisis de
+la configuración territorial en contextos de inequidades
+intrarregionales. Para ello se partirá de la definición aportada por
+[@santosNaturalezaEspacioTecnica2000] al identificar "sistemas de
+objetos" y los "sistemas de relaciones" para hacer una discusión con
+otras fuentes.
+
+Se tendrá en cuenta la mirada desde el análisis multiescalar de los
+determinantes estructurales sobre el territorio que se abordan desde el
+enfoque de la ecología política, con el fin de vincular las políticas
+globales de desarrollo que actúan sobre el territorio en aplicación del
+enfoque ecosistémico del desarrollo.
+
+**O.E. 2: Analizar los programas y antiprogramas de desarrollo,
+ordenamiento ambiental y territorial en los que participan los actores
+sociales en la cuenca baja del Río Sinú, para comprender cómo se aborda
+el enfoque ecosistémico y cómo se consideran los saberes y culturas
+ambientales locales.**
+
+A partir de la definición de programa anti programa de
+@latourEsperanzaPandora2016 [368] como toda acción planeada, legal o
+ilegal de intervención, existe una diversidad de programas de otros
+actores o actantes, de tal forma que se presentan al primero como anti
+programa. Desde este punto de vista se hará una sistematización de los
+principales programas de desarrollo y ordenamiento que tienen lugar y en
+los que participan los actores sociales en la cuenca baja. Así, se
+contemplan no sólo los documentos de política, planes y proyectos de
+desarrollo de actores económicos, el Estado, las entidades de
+Cooperación, sino que se identifican otras acciones planeadas e incluso,
+de actantes no humanos. De esta manera se buscará comprender y analizar
+la diversidad de representaciones, intereses en diferentes escalas que
+tienen como centro de acción al Bajo Sinú y la Desembocadura.
+
+**O.E. 3: Comprender las interacciones entre los actores sociales y los
+programas de desarrollo, ordenamiento ambiental y territorial en los que
+participan.**
+
+Con base en el análisis anterior, se georreferenciará y ubicará desde
+otras dimensiones el campo de acción de los programas identificados
+anteriormente, para luego adentrarse en los entornos locales donde
+tienen lugar dichos programas, así, se podrá abordar de manera
+etnográfica la categorización de los rasgos principales de dichos
+saberes y culturas, apoyándose en la propuesta metodológica de
+identificación de los marcos de acción [@goffmanFrameAnalysis2006].
+
+**O.E. 4: Comprender la construcción de visiones de desarrollo en el
+marco de las interacciones entre los saberes y culturas ambientales
+locales frente al enfoque ecosistémico.**
+
+Para este objetivo será muy importante el trabajo con el equipo
+coinvestigador, que al tener claridad sobre el planteamiento de la
+investigación podrá dirigir la búsqueda de las experiencias donde
+ecosistema y comunidad presenten relaciones distintivas o
+representativas para conocer los modos de existencia que permitan dar
+cuenta de las epistemologías que interactúan de diferentes formas y
+niveles de interacción con el enfoque ecosistémico representado en los
+programas identificados previamente.
+
+Se hará una identificación de los "marcos de la acción colectiva"
+[@goffmanFrameAnalysis2006; @svampaFronterasNeoextractivismoAmerica2019,
+54], "arenas" e "interfaces" donde tienen cita las diferentes
+epistemologías, para lo cual se hará una búsqueda de los proyectos de
+desarrollo y ordenamiento en los que estén participando las comunidades
+y organizaciones, aplicando el inventario de determinantes de la
+configuración territorial, de tal manera que se pueda relacionar en
+alguna medida los programas de desarrollo con los actores.
+
+De este cruce se obtendrá una selección de espacios, comunidades o
+actores donde se podrá profundizar en la caracterización de las
+interacciones. Inicialmente se identifican la "Mesa de crisis climática"
+convocada por organizaciones donde acuden instituciones del Estado,
+proyectos de restauración ecológica, proyectos de investigación en
+ciencias físicas, proyectos de los planes de ordenamiento y manejo de
+las cuencas y las áreas protegidas, rondas hídricas, acciones de control
+y de policía ambiental, proyectos de desarrollo y de aplicación de
+PIDARET y otras políticas públicas de desarrollo como el extensionismo
+agrario o programas como "De Ciencia abierta" del Ministerio de Ciencia
+y tecnología en el que vienen participando algunas organizaciones de la
+región.
+
+### Tabla de operacionalización:
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+          Categorías                                    Indicadores                                                 Técnicas           Fuentes
+  ------- --------------------------------------------- ----------------------------------------------------------- ------------------ ----------------
+  O.E.1   Patrones de producción y consumo - Redes      Huella ecológica y uso de bienes naturales por sector,      Etnografía         Cartografía
+          locales/redes globales - condiciones          distribución de la producción por sector en lo micro,       documental,        institucional,
+          ambientales - Valores de uso/valores de       prácticas e índices de consumo local, dieta, redes locales  Encuestas          pobladores,
+          cambio - Regímenes alimentarios               de comercialización y consumo, importancia de la            localizadas,       instituciones,
+          [@andradeVistaRegimenAgroalimentario2021].    agricultura local y la pesca en la economía y la dieta,     entrevistas a      investigadores
+                                                        valoración económica de bienes y servicios ambientales,     pobladores, grupos 
+                                                        participación en actividades culturales y comunitarias,     focales, análisis  
+                                                        IDH, percepción de calidad de vida.                         estadístico de     
+                                                                                                                    datos del censo    
+                                                                                                                    agrario,           
+
+          Inequidades intrarregionales: Distribución de Nivel de concentración de bienes naturales, tasa de acceso  Entrevistas,       comunidades
+          recursos y la tierra, Gestión de riesgos,     a la tierra para comunidades indígenas y campesinas,        observación        locales y
+          Actividades económicas y relaciones de        proporción de población que vive en zonas de riesgo, nivel  participante,      actores clave en
+          producción, flujos de capital/trabajo.        de preparación comunitaria y preparación de planes de       encuestas a        las dos
+                                                        emergencia                                                  productores        Provincias
+                                                                                                                    locales.           
+
+  O.E.2   Controversias y representaciones sobre el     Número, tipología y magnitud de conflictos territoriales y  Análisis           
+          territorio (Disputas sobre figuras de         de límites en la región, nivel de conocimiento legal y      documental,        
+          ordenamiento: Comunidades, áreas protegidas,  acciones de protección de territorios colectivos, acciones  geografías         
+          resguardos y territorios colectivos Vs.       de autonomía y autogestión de comunidades locales sobre sus híbridas           
+          proyectos de desarrollo), planes y proyectos  territorios, ordenamientos autónomos del territorio y el                       
+          sobre el territorio                           ecosistema, número, tipo de proyectos y actores                                
+                                                        involucrados en proyectos de desarrollo, adaptación al                         
+                                                        cambio climático y ordenamiento territorial, nivel de                          
+                                                        participación en los planes y proyectos de ordenamiento y                      
+                                                        desarrollo, existencia de mecanismos de monitoreo ,                            
+                                                        evaluación y control ciudadano sobre los proyectos,                            
+                                                        influencia de las economías ilegales y el control                              
+                                                        territorial de actores armados en la subregión.                                
+
+          Modos de existencia                           Técnicas empleadas en pesca y agricultura (tecnologías de   Geografías         Trazas GPX,
+          [@latourReensamblarSocialIntroduccion2008]:   control hídrico):Tipo de herramientas y equipos utilizados  híbridas:          
+          Técnicas empleadas en pesca y agricultura     en la pesca y agricultura. Grado de mecanización en las     Observación        
+          (tecnologías de control hídrico), Patrones de actividades de pesca y agricultura. Uso de métodos          participante,      
+          uso del suelo.- Arreglos y ordenaciones       tradicionales frente a métodos modernos de control hídrico. Autonarraciones,   
+          autóctonas(zonificaciones autónomas, reglas y Eficiencia y sostenibilidad de las técnicas empleadas en la Mapeo              
+          normas sociales), gestión de agua potable,    gestión del agua. Patrones de uso del suelo:Distribución de participativo;     
+          abordaje de conflictos.                       áreas destinadas a actividades agrícolas, pesqueras y de    Entrevistas,       
+                                                        conservación. Grado de urbanización y desarrollo de         transectos,        
+                                                        infraestructura en áreas rurales. Niveles de deforestación  archivos           
+                                                        o degradación del suelo. Cambios en los patrones de uso del comunitarios       
+                                                        suelo a lo largo del tiempo. Arreglos y ordenaciones                           
+                                                        autóctonas (zonificaciones autónomas, reglas y normas                          
+                                                        sociales): Existencia de normativas y reglas sociales                          
+                                                        tradicionales relacionadas con el uso del territorio y los                     
+                                                        recursos naturales. Grado de cumplimiento y respeto de                         
+                                                        estas normativas por parte de la comunidad. Niveles de                         
+                                                        participación y toma de decisiones comunitarias en la                          
+                                                        gestión del territorio. Percepciones de la comunidad sobre                     
+                                                        la efectividad y relevancia de estas normas sociales.                          
+                                                        Gestión de agua potable: Acceso a fuentes de agua potable y                    
+                                                        calidad del agua. Existencia de sistemas de gestión                            
+                                                        comunitaria del agua. Eficiencia y mantenimiento de la                         
+                                                        infraestructura de suministro de agua. Medidas de                              
+                                                        conservación y protección de fuentes de agua. Abordaje de                      
+                                                        conflictos:Número y tipo de conflictos relacionados con el                     
+                                                        uso del territorio y los recursos naturales. Métodos                           
+                                                        utilizados para la resolución de conflictos dentro de la                       
+                                                        comunidad. Niveles de cooperación y diálogo entre                              
+                                                        diferentes grupos en la resolución de conflictos. Impacto                      
+                                                        de los conflictos en la cohesión social y el bienestar                         
+                                                        comunitario.                                                                   
+
+          Prácticas y creencias: Prácticas de           Prácticas de reproducción de la vida:Grado de participación                    
+          reproducción, Cultura popular (alimentaria,   en actividades comunitarias y de apoyo mutuo. Niveles de                       
+          musical, identitaria), Mitos, creencias y     solidaridad y cooperación en la comunidad. Existencia y                        
+          prácticas simbólicas, festividades            funcionamiento de redes de cuidado mutuo y apoyo entre                         
+                                                        vecinos. Uso de prácticas de reciprocidad y ayuda mutua en                     
+                                                        situaciones de necesidad. Participación en iniciativas de                      
+                                                        economía solidaria y cooperativismo. Cultura popular                           
+                                                        (alimentaria, musical, identitaria): Frecuencia y tipo de                      
+                                                        intercambio de conocimientos y habilidades tradicionales.                      
+                                                        Participación en la preservación y transmisión de prácticas                    
+                                                        culturales locales. Importancia de la música, la danza y                       
+                                                        otras expresiones artísticas en la vida cotidiana.                             
+                                                        Valoración de la identidad cultural y el patrimonio local                      
+                                                        en las prácticas diarias. Uso de la alimentación como                          
+                                                        herramienta de cohesión social y expresión cultural. Mitos,                    
+                                                        creencias y prácticas simbólicas: Existencia de narrativas                     
+                                                        colectivas que fortalezcan el sentido de pertenencia y la                      
+                                                        identidad comunitaria. Uso de símbolos y metáforas                             
+                                                        compartidas para transmitir conocimientos y valores.                           
+                                                        Participación en rituales y ceremonias que refuercen los                       
+                                                        lazos sociales y espirituales. Creación y mantenimiento de                     
+                                                        lugares sagrados o sitios de significado cultural.                             
+                                                        Interpretación y adaptación de mitos y leyendas para                           
+                                                        abordar desafíos contemporáneos. Festividades: Celebración                     
+                                                        de eventos que promuevan la cohesión social y el sentido de                    
+                                                        comunidad. Participación en rituales y celebraciones que                       
+                                                        marquen hitos importantes en la vida comunitaria. Uso de                       
+                                                        las festividades como oportunidad para fortalecer la                           
+                                                        identidad cultural y transmitir valores. Incorporación de                      
+                                                        prácticas ancestrales en las festividades modernas. Impacto                    
+                                                        de las festividades en la revitalización de tradiciones y                      
+                                                        el fortalecimiento de la comunidad.                                            
+
+  O.E.3   Arenas: Escenarios o plataformas (Mesa de     Arenas (Escenarios o plataformas):Grado de apertura y       Reuniones,         Líderes y
+          cambio climático del Bajo Sinú), espacios de  accesibilidad de las diferentes arenas para la              eventos,           lideresas,
+          formulación de política pública, proyectos de participación de diversos actores. Niveles de               encuentros,        pertenecientes a
+          desarrollo con enfoque ecosistémico,          representatividad de los actores en las arenas,                                organizaciones
+          escenarios internacionales.                   considerando su diversidad y equidad. Existencia de                            sociales del
+                                                        mecanismos formales e informales para la inclusión de                          Bajo Sinú
+                                                        nuevos actores y perspectivas en las discusiones.                              
+                                                        Efectividad de las arenas en la generación de consensos y                      
+                                                        la toma de decisiones colectivas. Percepciones de los                          
+                                                        actores sobre la legitimidad y relevancia de las arenas en                     
+                                                        la formulación de políticas y proyectos. Espacios de                           
+                                                        formulación de política pública:Identificación de los                          
+                                                        actores involucrados en la formulación de políticas                            
+                                                        públicas en la región del Bajo Sinú. Grado de influencia de                    
+                                                        diferentes actores en la definición de la agenda y las                         
+                                                        prioridades de política pública. Existencia de procesos                        
+                                                        participativos y consultas públicas en la formulación de                       
+                                                        políticas. Evaluación de la transparencia y la rendición de                    
+                                                        cuentas en los procesos de formulación de políticas.                           
+                                                        Impacto de las políticas públicas formuladas en la                             
+                                                        resolución de los desafíos socioambientales en la región.                      
+                                                        Proyectos de desarrollo con enfoque                                            
+                                                        ecosistémico:Identificación de los actores involucrados en                     
+                                                        la planificación y ejecución de proyectos de desarrollo                        
+                                                        ecosistémico. Grado de integración de conocimientos                            
+                                                        científicos, tradicionales y locales en los proyectos de                       
+                                                        desarrollo. Evaluación de la sostenibilidad ambiental y                        
+                                                        social de los proyectos implementados. Participación y                         
+                                                        empoderamiento de las comunidades locales en la                                
+                                                        implementación de proyectos de desarrollo. Impacto de los                      
+                                                        proyectos de desarrollo ecosistémico en la resiliencia                         
+                                                        socioecológica de la región. Escenarios internacionales:                       
+                                                        Participación de actores locales en redes y coaliciones                        
+                                                        internacionales relacionadas con la gestión ambiental y el                     
+                                                        desarrollo sostenible. Influencia de acuerdos y compromisos                    
+                                                        internacionales en la formulación de políticas y proyectos                     
+                                                        a nivel local. Adaptación de estrategias y prácticas                           
+                                                        internacionales a las condiciones y contextos locales.                         
+                                                        Evaluación de la efectividad de la cooperación                                 
+                                                        internacional en la resolución de los desafíos                                 
+                                                        socioambientales en la región. Percepciones de los actores                     
+                                                        locales sobre la importancia y el impacto de la cooperación                    
+                                                        internacional en el desarrollo regional                                        
+
+          Interfaces                                    Interfaces:Grado de interacción y diálogo entre diferentes                     
+          [@longConstruccionMarcoConceptual2007 ]:      actores (academia, Estado, empresas) en el desarrollo                          
+          Intervenciones en Desarrollo rural: Acciones  rural. Identificación de los marcos de conocimiento y                          
+          academia-Estado-Empresas, extensionismo       evaluación existentes de los diferentes actores y cómo se                      
+          agrario, Gestión de recursos de cooperación   ven afectados y transformados por el proceso de                                
+          (ciclo de proyecto).                          interacción. Evaluación de la emergencia de nuevos marcos                      
+                                                        de conocimiento y evaluación como resultado de la                              
+                                                        interacción y el diálogo entre actores. Percepciones de los                    
+                                                        actores sobre el control, la autoridad y el poder en el                        
+                                                        proceso de interacción y formación de conocimiento.Impacto                     
+                                                        de las interfaces en la generación de consenso, la toma de                     
+                                                        decisiones colectivas y la transformación de los marcos de                     
+                                                        conocimiento y evaluación.Intervenciones en Desarrollo                         
+                                                        rural:Grado de inclusión de diferentes perspectivas y                          
+                                                        conocimientos en la planificación y ejecución de                               
+                                                        intervenciones. Identificación de los procesos de                              
+                                                        reflexividad y contestación de significados en la                              
+                                                        implementación de intervenciones. Evaluación de la                             
+                                                        capacidad de las intervenciones para incorporar nuevos                         
+                                                        enfoques y marcos de conocimiento a través del diálogo y la                    
+                                                        interacción. Percepciones de los actores sobre la                              
+                                                        legitimidad y la efectividad de las intervenciones en el                       
+                                                        desarrollo rural. Impacto de las intervenciones en la                          
+                                                        transformación de los sistemas de conocimiento locales y en                    
+                                                        la mejora de los resultados del desarrollo. Extensionismo                      
+                                                        agrario:Grado de apertura y adaptabilidad de los servicios                     
+                                                        de extensión agraria a diferentes perspectivas y marcos de                     
+                                                        conocimiento.Identificación de los procesos de negociación                     
+                                                        y co-construcción de conocimiento entre extensionistas y                       
+                                                        agricultores. Evaluación de la capacidad de los servicios                      
+                                                        de extensión para facilitar el diálogo y la reflexividad                       
+                                                        entre diferentes actores.Percepciones de los agricultores                      
+                                                        sobre la relevancia y utilidad de los servicios de                             
+                                                        extensión en función de sus propias perspectivas y                             
+                                                        necesidades. Impacto del extensionismo agrario en la                           
+                                                        transformación de los sistemas de conocimiento y prácticas                     
+                                                        agrícolas locales. Gestión de recursos de cooperación                          
+                                                        (ciclo de proyecto):Identificación de los procesos de                          
+                                                        interacción y diálogo entre diferentes actores durante el                      
+                                                        ciclo de proyecto. Evaluación de la capacidad de los                           
+                                                        proyectos para incorporar y adaptarse a diferentes marcos                      
+                                                        de conocimiento y evaluación. Percepciones de los actores                      
+                                                        sobre la equidad y la transparencia en la asignación y                         
+                                                        gestión de recursos. Impacto de los proyectos en la                            
+                                                        transformación de los marcos de conocimiento y evaluación                      
+                                                        de los diferentes actores involucrados. Reflexión sobre los                    
+                                                        procesos de interacción y formación de conocimiento durante                    
+                                                        el ciclo de proyecto y su contribución a la mejora continua                    
+                                                        de las intervenciones                                                          
+
+  O.E.4   Redes: Redes entre lo humano y lo no humano,  Redes entre lo humano y lo no humano:Identificación de los  Ecograma, análisis 
+          Morfología de las redes, relaciones entre     actores humanos y no humanos involucrados en la red.        de redes sociales, 
+          actores (cercanías,                           Evaluación de la interacción y la influencia de los actores análisis de redes  
+          exclusiones-tensiones).Programas y            humanos y no humanos en la red. Análisis de la distribución                    
+          antiprogramas                                 de agencia y poder entre los actores humanos y no humanos.                     
+                                                        Estudio de la resiliencia y la adaptabilidad de la red ante                    
+                                                        cambios en los actores humanos y no humanos. Evaluación de                     
+                                                        los efectos de las interacciones entre los actores humanos                     
+                                                        y no humanos en la configuración y dinámica de la red.                         
+                                                        Morfología de las redes:Caracterización de la estructura de                    
+                                                        la red (centralizada, descentralizada, distribuida).                           
+                                                        Identificación de los nodos clave y las conexiones críticas                    
+                                                        dentro de la red. Análisis de la densidad y la conectividad                    
+                                                        de la red. Evaluación de la modularidad y la cohesión de la                    
+                                                        red. Estudio de la evolución y el cambio en la morfología                      
+                                                        de la red a lo largo del tiempo. Relaciones entre actores                      
+                                                        (cercanías, exclusiones-tensiones):Análisis de las                             
+                                                        relaciones de proximidad y distancia entre los actores en                      
+                                                        la red. Identificación de las tensiones y conflictos entre                     
+                                                        los actores en la red. Evaluación de los mecanismos de                         
+                                                        inclusión y exclusión dentro de la red. Estudio de las                         
+                                                        estrategias de negociación y mediación para abordar las                        
+                                                        tensiones en la red. Análisis de las relaciones de poder y                     
+                                                        asimetrías en las interacciones entre los actores en la                        
+                                                        red. Programas y antiprogramas:Identificación de los                           
+                                                        programas y objetivos de los diferentes actores en la red.                     
+                                                        Evaluación de la alineación o divergencia de los programas                     
+                                                        entre los actores en la red. Análisis de los conflictos y                      
+                                                        disputas generados por la confrontación de programas                           
+                                                        opuestos. Estudio de los mecanismos de resistencia y                           
+                                                        contra-acción desplegados por los antiprogramas. Evaluación                    
+                                                        del impacto de los antiprogramas en la transformación de la                    
+                                                        red y sus dinámicas                                                            
+
+          Actantes: Agentes humanos y no humanos que    Identificación de actantes:Enumeración de los diferentes    Observación        Archivos
+          intervienen y ejercen su poder                actores humanos y no humanos que participan en la red.      participante,      audiovisuales,
+                                                        Clasificación de los actores según su tipo (humanos,        narraciones        registros
+                                                        animales, objetos técnicos, instituciones, etc.).           colectivas,        fotográficos
+                                                        Descripción de las características y roles específicos de   análisis           
+                                                        cada actante en la red. Ejercicio de poder:Evaluación del   audiovisual        
+                                                        grado de influencia y poder de cada actante en la red.                         
+                                                        Análisis de las estrategias utilizadas por los actantes                        
+                                                        para ejercer su poder (coerción, persuasión, negociación,                      
+                                                        etc.). Identificación de las relaciones de poder                               
+                                                        asimétricas entre los diferentes actantes. Estudio de la                       
+                                                        resistencia y la respuesta de otros actantes ante el poder                     
+                                                        ejercido por ciertos actores dominantes. Evaluación del                        
+                                                        impacto del poder de los actantes en la configuración y                        
+                                                        dinámica de la red. Interacción entre actantes:Análisis de                     
+                                                        las relaciones y conexiones entre los diferentes actantes                      
+                                                        en la red. Evaluación de la colaboración y cooperación                         
+                                                        entre actantes para alcanzar objetivos comunes. Estudio de                     
+                                                        los conflictos y tensiones entre actantes que pueden                           
+                                                        obstaculizar la cooperación y generar fricciones en la red.                    
+                                                        Identificación de los mecanismos de mediación y negociación                    
+                                                        utilizados por los actantes para resolver conflictos y                         
+                                                        mantener la estabilidad de la red. Evaluación de la                            
+                                                        dinámica de cambio y transformación de las relaciones entre                    
+                                                        actantes a lo largo del tiempo                                                 
+
+          Agencia: Capacidades para influir en toda la                                                              Entrevistas,       
+          red                                                                                                       análisis           
+                                                                                                                    documental, grupos 
+                                                                                                                    focales            
+
+          Traducción: Relación entre actantes y                                                                     Observación        
+          posibilidades de ajuste entre discursos y                                                                 participante,      
+          epistemologías                                                                                            análisis           
+                                                                                                                    documental         
+
+          Hibridaciones y mediaciones:                                                                              Entrevistas,       
+                                                                                                                    relatoría de       
+                                                                                                                    espacios de        
+                                                                                                                    encuentro,         
+
+          Discursos y epistemologías en juego:                                                                                         
+          Transformaciones - Niveles de participación -                                                                                
+          Formas de vinculación - Posturas                                                                                             
+          institucionales - Priorizaciones - Visiones y                                                                                
+          estrategias de cambio - Criterios de                                                                                         
+          valoración y evaluación de proyectos.                                                                                        
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Cronograma general
+
+  -----------------------------------------------------------------------------------------------------------------------------------------
+  MOMENTOS          II -2023       I-2024         II-2024        I-2025         II-2025        I-2026         II-2026        I-2027
+  ----------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- --------------
+  Alistamiento      ////////////   ////////////                                                                              
+
+  Reconocimento     ////////////   ////////////   ////////////                                                               
+
+  Recuperación                                                   ////////////   ////////////   ////////////                  
+  crítica                                                                                                                    
+
+  Sistematización                                                ////////////   ////////////   ////////////   ////////////   ////////////
+
+  Devolución                       ////////////   ////////////   ////////////   ////////////   ////////////                  ////////////
+  -----------------------------------------------------------------------------------------------------------------------------------------
+
+# Bibliografía {#bibliografía .unnumbered}
+
+[^1]: Esta última colinda con el área de transición hacia la zona
+    montañosa de la Serranía de San Jacinto o Montes de María, que
+    emparenta histórica y geográficamente al Bajo Sinú con los
+    municipios de los vecinos Departamentos de Sucre y Bolívar, que
+    hasta 1952 hicieron parte de una misma entidad territorial o
+    Departamento [@lambismercadoLuchaPorAutonomia2020].
+
+[^2]: A través del Pacto territorial se pretende dar respuesta a las
+    brechas de desarrollo catalizadas por el conflicto armado, y aunque
+    la zona no está dentro de los territorios priorizados como Programas
+    de Desarrollo con Enfoque Territorial (PDET), siendo el más cercano
+    el PDET Montes de María, sí va a ser impactado por estos planes al
+    ser parte del Golfo de Morrosquillo. En el marco del Pacto
+    territorial ya se encuentran en construcción 11 obras estrateǵicas
+    de infraestructura turística, de agua y saneamineto, salud y
+    educación, transporte, con las que se pretende impactar a 4
+    municipios del Departamento de Córdoba (Moñitos, San Bernardo del
+    Viento, Lorica y San Antero) y 4 del Departamento de Sucre (Coveñas,
+    Toluviejo, Santiago de Tolú, San Onofre)
+    [@departamentonacionaldeplaneacionInfografiaPactoGolfo2021].
+
+[^3]:  <http://www.ejatlas.org>
+
+[^4]: El GEF es un fondo multilateral que actua como mecanismo de
+    financiación de 5 Convenciones multilaterales en material ambiental:
+    de cambio climático, contaminantes orgánicos persistentes,
+    desertificación y mercurio. Entre sus miembros se encuentran 183
+    países, Agencias de Cooperación técnica, de Cooperación financiera
+    al desarrollo (Bancos regionales), actores privados y algunos
+    representantes seleccionados entre los Pueblos indígenas. Ha
+    financiado múltiples proyectos enfocados en dar soporte al
+    cumplimiento de dichas Convenciones desde 1994, impactando
+    comunidades locales en todo el Sur Global [@gefWhoWeAre]
+
+[^5]:  Adicionalmente La Ley 388 de 1997, Ley orgánica de ordenamiento
+    territorial, su norma sucesora la Ley 1454 de 2011
+    [@congresodelarepublicaLey145420112011] que da los lineamientos para
+    el ordenamiento territorial multiescalar.
+
+[^6]: AAsociación de Pescadores Campesinos Indígenas y Afrodescendientes
+    para el Desarrollo Comunitario de la Ciénaga Grande del Bajo Sinú

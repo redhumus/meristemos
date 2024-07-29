@@ -1,0 +1,619 @@
+AVANCE DEL PROYECTO DE INVESTIGACIÓN PARA EL DOCTORADO EN DESARROLLO
+RURAL
+Micaela Álvarez Pérez
+GESTIÓN DE SABERES E INCIDENCIA COMUNITARIA DE ESTUDIANTES
+EGRESADOS DE UNIVERSIDADES INTERCULTURALES EN CHIAPAS
+¿Regresar a la tierra? Jóvenes transformando su mundo de vida en Chiapas
+1.
+ PLANTEAMIENTO DEL PROBLEMA
+He sido docente en la Universidad Intercultural de Chiapas1 (UNICH) con sede en San
+Cristóbal de las Casas por más de 14 años, y vivido algunos de los desafíos que implica la
+práctica de la interculturalidad en nuestra institución. De igual manera he desempeñado mi
+labor docente durante ocho años en el Instituto de Educación Superior en Desarrollo
+Humano Sostenible (en adelante “Universidad Moxviquil”), cuya apuesta educativa también
+se plantea desde un enfoque intercultural2. A partir de mi experiencia, el propósito inicial de
+esta propuesta de investigación fue apreciar comparativamente los alcances que ambos
+procesos educativos han tenido en los jóvenes egresados de ambas universidades, y
+conocer la incidencia comunitaria de su práctica en los territorios de Chiapas, a través de
+una diversidad de acciones, y en consecuencia hacer una valoración de la responsabilidad
+social de ambas universidades con la sociedad. Sin embargo al profundizar en el
+planteamiento de la investigación, es evidente la complejidad que se vive en las
+instituciones de educación superior con vocación intercultural: el contexto histórico y actores
+involucrados en su creación, las relaciones coloniales de poder y dominación, las políticas
+gubernamentales, la situación que enfrentan las juventudes, la falta de empleos, la crisis en
+el campo, el fenómeno migratorio, la situación de violencia que se agudiza cada día más,
+por mencionar algunos elementos.
+Desde mi perspectiva, estas y otras situaciones inciden en la praxis educativa en las
+instituciones en cuestión, y si no existen espacios de reflexión y atención a la diversidad en
+1 De acuerdo al decreto
+ publicado en el Periódico Oficial No. 276, con fecha 1 de diciembre de 2004, “la Universidad
+Intercultural de Chiapas es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio
+propios, que tiene por objeto, entre otros, impartir programas educativos de alta calidad orientados a formar profesionales e
+intelectuales comprometidos con el desarrollo económico y cultural en los ámbitos comunitario, regional y nacional, cuyas
+actividades contribuyan a promover un proceso de revaloración y revitalización de las lenguas y culturas originarias, así como
+de los procesos de generación del conocimiento de estos pueblos, de acuerdo con los requerimientos del entorno, del estado
+y del país.” La Universidad Intercultural de Chiapas es la segunda en haber sido fundada en nuestro país, e inició sus
+actividades académicas el 22 de agosto de 2005, y en diciembre de 2023celebró el 19 aniversario del decreto de creación.
+2 Cabe señalar que si bien la creación de las universidades interculturales fueron resultado de la lucha social, la UNICH en
+particular depende de la visión del Estado y de los contextos políticos, mientras que la Universidad Moxviquil se creó a partir
+de la iniciativa de una asociación civil.
+1
+la comunidad universitaria, pueden contribuir a procesos de silenciamiento y exclusión, lo
+cual tiene consecuencias epistémicas para los estudiantes, y les plantea grandes desafíos
+a quienes egresan.
+Reconocer, como lo señala Walsh (2007:4), que “el conocimiento tiene una relación con y
+forma parte integral de la construcción y organización del sistema-mundo moderno
+capitalista, que a la vez y todavía, es colonial” me plantea dos retos de investigación, por
+un lado asumir una postura crítica respecto a mi propio quehacer docente, y por otra parte,
+observar y comprender el quehacer de las universidades desde un compromiso político,
+que puede desde su praxis educativa ser una herramienta emancipatoria, o puede contribuir
+a ocultar la realidad de dominación y alienación (Freire, citado por Walsh, 2007).
+Para comprender la situación y dinámicas que se desarrollan en las comunidades
+universitarias es necesario vincularlas a la cambiante realidad del contexto socio-cultural,
+económico, ambiental en el momento presente, en el ámbito local y estatal, pero también
+vinculada al contexto más amplio, nacional, latinoamericano, global y a su historicidad que
+fluctúa entre la colonialidad y la modernidad.
+En principio, para enmarcar las prácticas educativas necesitamos reconocer que el
+colonialismo en nuestro país no ha terminado, no fueron suficientes los movimientos
+sociales de Independencia y Revolución. Sigue habiendo un colonialismo interno en los
+países de América Latina, y por supuesto en México. Existe la colonialidad del poder que
+implica el control de las personas, el control del conocimiento, el pensar que algunos son
+inferiores y otros son superiores, y estas ideas penetran y son interiorizadas en el
+pensamiento, en la psique y el cuerpo de las personas. Todos somos producto de eso, y
+requerimos reconocer este peso de la colonialidad que sigue dándose en nuestras
+relaciones enseñanza-aprendizaje, aún con los procesos de modernización impuestos por
+el capitalismo (Walsh, 2007).
+Plantear este proceso de investigación vinculado a la praxis educativa implica también
+reconocer que hay estructuras de poder cuando hablamos de conocimiento y pensamiento,
+e implica revisar qué situaciones están atravesando
+ las instituciones educativas, en
+particular las de educación superior, que de algún modo condicionan su quehacer
+educativo, y previamente hay que reconocer el proceso que ha recorrido el quehacer
+2
+docente. En nuestro país en el ámbito educativo arrastramos un legado desde el siglo XIX,
+que es la idea de que lo homogéneo es lo deseable y lo diverso es problemático.
+Heredamos esta idea de la noción occidental y eurocéntrica en la que se creía que la
+escuela una vez separada de la iglesia, la escuela laica se veía como una fábrica de
+igualdad en la que los estudiantes entraban diversos y todos salían “iguales”, es este
+sentido la diversidad se estigmatizo y se procuró excluir y borrar.
+Según Comboni y Juárez (2019), la escuela, incorporó las visiones dominantes a través de
+la construcción de un currículum único, organizado y gestionado centralmente, dónde,
+independientemente de las corrientes pedagógicas en boga y aceptadas oficialmente, se la
+asume como un instrumento civilizatorio, instructor, constructor de la unidad nacional; de
+una sola visión del mundo, de esta nueva visión “mestiza”, todo ello a través de la selección
+e incorporación de contenidos y de métodos que lograran la deseada asimilación.
+Gracias a los movimientos sociales, durante el siglo XX se logró reconocer la diversidad
+como un derecho, lo que enfrentó la escuela ante un desafío, que implicó leyes
+antidiscriminación hacia las personas que hablan una lengua originaria, que tienen una
+discapacidad, o todas aquellos actores que son diversos y que no caben en la escuela
+homogeneizadora. Dietz (2023), considera que el periodo neoliberal de los años 80 hasta
+la actualidad se está cerrando, y según su perspectiva, los docentes nos convertimos
+recursos humanos transmisores del currículo oficial, y los estudiantes aprendían para
+prepararse para el mercado. La empleabilidad fue la bandera de este periodo.
+Actualmente, la Nueva Escuela Mexicana abre una nueva etapa post neoliberal en la que
+es posible redefinir el papel de las instituciones educativas, y también se está concluyendo
+una larga fase colonial de entender la escuela, que comenzó con la colonización del
+continente, continuó con la creación de la república y que impuso una idea de escuela que
+no fue creada en estos contextos, sino que fue importada con una mentalidad colonial
+eurocéntrica, y descontextualizada, y esto es algo que seguimos arrastrando. Sin embargo,
+en la propuesta de la Nueva Escuela Mexicana, hay un importante intento de
+recontextualizar, de echar raíces, que la escuela se empiece a pensar desde abajo hacia
+arriba, cuando en todo el proceso colonizador ha sido de arriba hacia abajo (Dietz, 2023).
+Pese a estos avances, para los jóvenes indígenas sigue habiendo un acceso limitado a la
+3
+educación superior por problemas económicos, de racismo y discriminación (Del Val,
+2021). Por su parte, Gunther Dietz (2021) señala:
+“En la última década, jóvenes indígenas han accedido cada vez más a la educación superior
+mexicana, pero son casi invisibles, sus lenguas no son reconocidas académicamente y su
+conocimiento es considerado como folklore más no como parte del canon académico.”
+Aquí cabe anotar que otro estudio ya ha documentado que las universidades interculturales
+adolecen de dar por sentado el “enfoque intercultural” como si fuera algo inmanente y
+naturalizado, y no una construcción social y conceptual (Tipa, 2014).
+Personalmente he constatado que en el ámbito de la comunidad universitaria los jóvenes
+no cuentan con instancias de participación que les permitan expresar su palabra o tomar
+decisiones respecto a temas que pueden afectar su desempeño académico: contar con un
+receso para alimentarse adecuadamente, dialogar acerca de las condiciones para dar
+seguimiento a la vinculación comunitaria, proponer actividades prácticas relacionadas con
+su perfil profesional, contar con un comité o consejo estudiantil, por ejemplo. Una vez que
+egresan de la Universidad, las situaciones a que se enfrentan y el quehacer que realizan
+no se visibiliza, a menos que se les convoque eventualmente para participar en algún foro
+de egresados.
+Por otra parte, si bien en el ámbito educativo hay un panorama que incluye a los jóvenes
+de pueblos originarios a instituciones de educación superior a partir de la creación de las
+Universidades Interculturales, también es cierto que hay un debilitamiento del nivel
+educativo alcanzado, con la posibilidad de inserción al mercado laboral. Algunos estudios
+han evidenciado que con la expansión de la escolaridad ha habido una pérdida del valor de
+los grados académicos obtenidos en el sistema escolar formal, y se estima que a partir de
+los años 80 el logro escolar dejó de significar la ocupación de puestos bien remunerados.
+La permanencia en el sistema educativo dejó de ser el principal promotor de la movilidad
+social ascendente, dada la escasez de empleos (Navarrete, 2021).
+Actualmente las juventudes se encuentran frente a un horizonte difícil: desempleo,
+remuneraciones insuficientes para subsistir, empleos sin prestaciones e inestables, entre
+otras desventajas, cuando son “arrojados” por el sistema educativo. Desde la perspectiva
+4
+de Navarrete (2021, pp 32-33), las instituciones han dejado de atender sus necesidades,
+de guiarlos, de representarlos, y sobre todo han perdido su capacidad para incorporarlos,
+protegerlos y fortalecerlos. Estos elementos podrían reducirse a la pérdida de gran parte de
+sus derechos.
+En lo que respecta al contexto de Chiapas, las y los jóvenes enfrentan otros desafíos, pues
+en el ámbito comunitario existen prácticas socioculturales en torno a ser joven que en
+algunos casos, los excluyen de los espacios de producción agropecuaria, de los espacios
+de participación y toma decisiones familiares y comunitarias. Para el caso de las mujeres
+esta condición tiende a empeorarse ya que son doblemente excluidas por ser jóvenes y ser
+mujeres, pues el ámbito público es dominado por los hombres (Martínez, 2018); aunque en
+algunas comunidades se empiezan abrir espacios de participación para las mujeres.
+Es así que frente a tantos desafíos que enfrentan los jóvenes en general, pero también de
+manera específica los estudiantes que egresan de las Universidades Interculturales, me
+surgen varios cuestionamientos:
+●
+ ¿Cómo conceptualizan y practican las universidades la interculturalidad?,
+●
+ ¿Cómo gestionan en su praxis educativa los saberes y conocimientos de las y los
+estudiantes? y
+●
+ "¿Qué efecto/impacto han tenido estas instituciones en la construcción del sentido
+de pertenencia y responsabilidad social con las comunidades?3 "
+Resumiendo, la problemática que abordaré en el proceso de investigación hace énfasis por
+una parte, al aporte institucional al que atribuyo el control de los conocimientos que
+adquieren los estudiantes que cursan las diferentes licenciaturas que se ofertan en la
+UNICH y la Universidad Moxviquil4, y la exclusión u omisión de la diversidad de ontologías
+y epistemologías presentes entre estudiantes que conlleva a una violencia epistémica, y
+plantea el reto de revisar y descolonizar nuestras prácticas docentes y al interior de la
+comunidad universitaria, para transitar hacia la posibilidad de propiciar el inter-aprendizaje,
+3 Aquí, entendida la noción de comunidad más allá de un carácter rural o perteneciente a pueblos originarios.
+4 La Universidad Moxviquil comenzó a ofertar la licenciatura en Planeación del Desarrollo Rural en la ciudad de San Cristóbal
+de Las Casas en 2010, en colaboración con CESDER-Puebla. Previamente, Moxviquil como Asociación Civil llevaba varios
+años en la región desarrollando procesos formativos dirigidos a líderes indígenas y campesinos, jóvenes y mujeres, bajo la
+propuesta de “comunidades de aprendizaje”. En 2016 ya había realizado las gestiones necesarias ante la SEP para incluir en
+su oferta educativa la Licenciatura en Autogestión Sustentable del Territorio, independientemente de CESDER.
+5
+y ver la diversidad como un recurso pedagógico. Además pondero la responsabilidad social
+que las universidades tienen durante el proceso formativo de los estudiantes, en el
+seguimiento y respuesta a los desafíos que los egresados enfrentan en su práctica, y hacia
+el conjunto de la sociedad, según los propósitos para las que fueron creadas. Es así que
+planteo contrastar el discurso de la interculturalidad y la praxis educativa.
+Por otra parte, la investigación busca dar cuenta de la incidencia comunitaria que los
+egresados y egresadas de las Licenciaturas en Desarrollo Sustentable de la UNICH, y
+Autogestión Sustentable del Territorio de la Universidad Moxviquil tienen en los distintos
+espacios
+ donde
+ se
+ desempeñan
+ profesionalmente,
+ abarcando
+ el
+ repertorio
+ y
+heterogeneidad de acciones que pueden estar realizando ante las complejidades,
+dinámicas, necesidades y problemáticas del contexto.
+Cabe señalar que la UNICH se plantea a través de su misión: “Formar profesionales
+éticamente responsables y comprometidos con la diversidad, los pueblos y lenguas
+originarias, la vinculación comunitaria, los saberes científicos y tradicionales, con el
+propósito de construir una sociedad más justa y equitativa.”, y le guía el lema: “Por un
+Chiapas Igualitario y Plural”.
+Por parte de la UNICH el perfil de egreso de la licenciatura en Desarrollo Sustentable
+plantea que: “Los estudiantes egresados serán capaces de fortalecer capacidades
+organizativas y productivas locales, bajo el enfoque de Buen Vivir para la resolución de
+problemáticas comunitarias, contribuyendo al bienestar social desde la participación social
+y política; asimismo aplicar estrategias de producción sustentable y ordenamiento territorial
+comunitario, para el manejo responsable de los recursos (Página oficial de la UNICH).
+La Universidad Moxviquil, por otra parte, plantea que los egresados cuenten con
+capacidades para:
+• Arraigarse, comprometerse con lo rural, con elementos para facilitar la comprensión de la
+realidad e impulsar y participar en la construcción colectiva de soluciones y alternativas.
+• Vivir y promover relaciones interpersonales y sociales de equidad en los diferentes
+aspectos de su vida personal y profesional.
+• Ser persona, con identidad propia, que asuma su ciudadanía y se comprometa con la
+construcción y el fortalecimiento de instancias de transformación social y política
+6
+concretadas localmente y articuladas globalmente.
+• Interactuar sensible y respetuosamente con el medio ambiente, proponiendo y
+participando en acciones que promuevan el desarrollo sustentable (Documento base de la
+licenciatura, 2008:4).
+Desde este discurso se colocan altas expectativas sobre los estudiantes egresados, lo cual
+me lleva a otras preguntas: ¿cómo estas universidades han aportado o no para las
+decisiones que han tomado los jóvenes egresados en su desempeño profesional y en sus
+proyectos de vida? ¿Qué de lo planteado en el perfil de egreso se ha concretado a través
+del quehacer de los estudiantes que concluyeron su formación profesional?
+Justificación
+A la luz de lo planteado en los perfiles de egreso, las y los estudiantes que concluyeron su
+formación profesional representan el enlace entre las Universidades y los contextos locales,
+por lo que considero importante la recuperación de su experiencia, sus acciones y prácticas
+en el ámbito comunitario; lo cual nos aportaría información acerca de los procesos
+participativos que han generado o con los que han establecido vínculos, redes, alianzas;
+los cambios que han propiciado –o no-, así como casos de incidencia y movilización social,
+si es que los hay. Asimismo, conocer los retos y problemáticas que enfrentan. Todo esto
+con la finalidad de visibilizar el despliegue de recursos, habilidades, significados y valores
+que aplican a través de sus acciones en contextos específicos, y vincular esto con la
+responsabilidad institucional, de manera que se establezcan puentes cognitivos donde el
+aprendizaje sea de ida y vuelta, es decir también aprendamos de los estudiantes y
+egresados. La aspiración es que se fortalezcan los modelos educativos hacia una
+interculturalidad transformadora.
+Algunas preguntas en relación a esto son:
+●
+ ¿Qué hacen los egresados, hacía donde se dirigen, que rutas toman para continuar
+con su vida?
+●
+ ¿Qué es lo que los egresados tienen que contar de acuerdo a su experiencia?
+●
+ ¿Cómo se aterriza en los territorios lo que se plantea en sus perfiles de egreso?
+●
+ ¿Qué está sucediendo en las comunidades a dónde van los egresados?
+7
+●
+ ¿Cómo se retroalimentan ante los desafíos que encuentran al egresar y en su
+quehacer con otros y otras?
+Es así que el presente trabajo de investigación
+ plantea contribuir a visibilizar el rol
+ ́protagónico de las y los egresados la UNICH y la Universidad Moxviquil en las diversas
+realidades comunitarias, y mostrar los intersticios o grietas a través de los cuales se mueven
+y accionan, pese a los grandes desafíos que les presenta el contexto, además de los
+procesos de discriminación y exclusión que enfrentan cotidianamente.
+Cabe precisar que cada vez más jóvenes de áreas urbanas se inscriben a las Universidades
+Interculturales, lo que requiere trascender la asociación que está presente entre lo
+intercultural y lo indígena.
+Respecto a la praxis educativa intercultural de las instituciones de educación superior
+consideradas para el proceso de investigación, esta quedará como un eje transversal que
+se retomará a través de los relatos de los estudiantes egresados, procurando recuperar
+elementos de su discurso que contribuyan a actualizar el vínculo entre éstas y las realidades
+comunitarias, dejando como un tema postergado el análisis de la responsabilidad social de
+la UNICH y la Universidad Moxviquil en los territorios del contexto chiapaneco.
+Antecedentes
+Entre los antecedentes de investigaciones realizadas con estudiantes y egresados de las
+universidades interculturales en Chiapas, se ha abordado el proceso de vinculación
+comunitaria uno de los ejes principales del plan curricular, que les brinda la oportunidad de
+acceder a contextos socioculturales y territorios para construir situaciones de aprendizaje,
+e idealmente, establecer un diálogo e intercambio de saberes con los actores comunitarios
+(Navarro, 2020).
+Otro estudio se enfocó en analizar los significados y las prácticas socioculturales de ser
+joven rural que limitan sus las acciones como agentes de cambio y de transformación,
+concluyendo que los jóvenes viven situaciones de exclusión en sus propios espacios
+comunitarios, lo que afecta su interés en retornar cuando egresan; aunado a que los padres
+tratan de asegurar la educación superior de sus hijas e hijos con la expectativa de que la
+8
+profesionalización permitirá a las y los jóvenes entrevistados encontrar un buen trabajo en
+la ciudad, con ingresos que mejoren las condiciones de vida familiar y trasciendan la
+pobreza que se vive en las comunidades rurales (Martínez, 2018).
+Durante la pandemia se realizó otra investigación
+ a través de encuestas digitales,
+abordando el caso de estudiantes egresados, y en base al concepto de recampesinización,
+recogió y analizó la experiencia de 46 jóvenes egresados de la UNICH y Moxviquil,
+originarios de 40 comunidades y de 9 pueblos originarios, mostrando en sus resultados que
+el 83% de los encuestados se considera al menos un poco campesino ya que continúa
+acompañando a sus familiares en la producción de sus tierras o tiene proyectos agrícolas,
+además de dedicarse a otras diversas actividades. (Chaim, 2023). Lo que esta investigación
+me aporta es una categorización de las y los egresados a partir de su ser y hacer en el
+campo.
+Pude notar que los resultados se contraponen entre una investigación y otra, pues la
+primera concluye que un mínimo porcentaje de egresados retorna a su comunidad de
+origen, y la otra argumenta la decisión de los jóvenes indígenas de mantener una relación
+con sus tierras y su comunidad, y defender sus territorios a pesar de que la tendencia sea
+migrar a las ciudades. Esta última además puntualiza que varios de las y los jóvenes
+encuestados trabajan o colaboran con organizaciones sociales que trabajan en el
+desarrollo rural y bienestar rural.
+“Juventudes, identidades e interculturalidad” es otra investigación que aborda los
+consumos y gustos musicales entre estudiantes de la UNICH (Tipa, 2014), e introduce
+la noción de geografías culturales para describir las diferencias entre los jóvenes
+indígenas y los jóvenes de habla castellana respecto a sus preferencias musicales.
+Existen otros textos cuya revisión aún está pendiente, por ejemplo uno que analiza el
+proceso de vinculación comunitaria y la propuesta metodológica de diálogo de saberes, en
+su ejercicio áulico y comunitario, en la educación superior intercultural (Ávila, 2016), y se
+retomarán para la elaboración del estado del arte.
+9
+2.
+ MARCO CONTEXTUAL
+En la praxis educativa tenemos la responsabilidad de vincularnos al contexto en el que nos
+encontramos, que para el caso de Chiapas es de una gran complejidad de factores que
+generan condiciones de marginación, relaciones de poder, desigualdad social y económica,
+educación descontextualizada, racismo, exclusiones por razones de género, entre otros.
+Sin embargo hay que mencionar que es también un entorno de gran efervescencia, con un
+intenso dinamismo social y político, y con fuertes raíces históricas, en el que han surgido
+diversas experiencias educativas autonómicas, que van más allá del marco oficial, y que
+muestran la gran fortaleza de los pueblos en la toma decisiones y autogestión educativa
+(Toledo, 2020, Sartorello, 2019).
+El levantamiento zapatista influyó de manera terminante en la promoción de los derechos
+y la cultura de los pueblos indígenas de Chiapas y de México a través de los Acuerdos de
+San Andrés, firmados en 1996, y que si bien fueron “rechazados” por el Gobierno Federal,
+contribuyeron a cuestionar diversos ámbitos de las políticas públicas destinadas a los
+pueblos indígenas, además de que representaron un parteaguas para iniciar propuestas de
+educación autónomas, y colocaron a Chiapas en la mirada de otros actores sociales del
+país y del mundo.
+Su ubicación en una zona fronteriza del país añade otro rasgo a la complejidad, haciendo
+del territorio de Chiapas un lugar de tránsito para distintas modalidades de migración, y
+también de diversas situaciones de desplazamientos forzados de la población, en este caso
+por la disputa del territorio entre grupos del crimen organizado, lo cual se ha agravado en
+las últimas semanas. Es así que persisten las amenazas a los territorios indígenas con
+megaproyectos turísticos, hidroeléctricos, de explotación petrolera, de minería, de
+monocultivos -como la palma de aceite-, entre otros; todos acompañados de fuerte
+presencia militar y conflictos sociales, como denuncian algunas asociaciones civiles y
+organismos de derechos humanos.
+Todos estos factores indicen en el desarrollo de los proyectos educativos, particularmente
+por el incremento del nivel de violencia y fragmentación social derivada de distintos factores:
+desastres naturales, coyunturas político-electorales, conflictos religiosos, programas
+sociales y productivos, corrupción e impunidad en los distintos niveles de gobierno,
+10
+militarización, incremento de la criminalidad organizada y narcotráfico, entre otros
+(Sartorello, 2019).
+Si bien estos y otros elementos de la realidad en Chiapas se superponen, y hacen de este
+contexto un sistema complejo de relaciones históricas de exclusión, subalternidad,
+desigualdad, luchas de poder, también persisten y emergen formas diversas de senti-
+pensar-hacer la vida. Es un territorio donde se construyen y tejen espacios pequeños de
+esperanza; existen expresiones que procuran atender lo necesario para la vida comunitaria,
+y entre otras cosas, garantizar la seguridad en sus territorios. Por ejemplo, las comunidades
+eclesiales que se formaron en la teología de la liberación con Jtatik Samuel, las experiencias
+de educación autónoma en comunidades zapatistas, así como numerosas y diversas
+organizaciones de la sociedad civil que realizan un amplio abanico de acciones para
+fortalecer algunos elementos culturales como la lengua, la música, los sistemas
+productivos, la atención a migrantes y desplazados, entre otras, de las que algunas
+egresadas y egresados participan activamente.
+Ser, saber y hacer de los estudiantes egresados
+Cuando le hice el planteamiento a una estudiante egresada de la UNICH, acerca de este
+proyecto de investigación su respuesta fue: “¡Qué bueno profe, así al menos sabrán que
+estamos vivos!” (Amparo, 26 de febrero 2024). Esto me dio un indicio acerca de que este
+ejercicio de seguimiento a egresados -desde un enfoque cualitativo y dialógico- puede ser
+de interés para quienes se formaron académicamente en las instituciones interculturales
+antes mencionadas.
+Amparo egresó de la Licenciatura en Desarrollo Sustentable (LDS-UNICH) hace 11 años,
+tras lo cual inició su colaboración con la organización DANA A.C., una asociación
+comprometida con el valor de la naturaleza y la producción de diversidad de alimentos
+orgánicos, donde complementó su aprendizaje en la implementación de huertos, con el
+acompañamiento del investigador y agroecólogo Ronald Nigh. Actualmente forma parte de
+la Red Chiapaneca de Huertos Educativos y continúa colaborando con la implementación
+de huertos en el ámbito comunitario.
+Miguel Ángel es originario de un pueblo tseltal y egresó de la LDS en 2015. Ya durante la
+11
+carrera mostró sus habilidades artísticas con la pintura y la música (Rap y Hip Hop). Ha
+participado en eventos estatales, nacionales e internacionales con el nombre artístico
+Sebsor. A partir de 2019 se integró a colectivos que fomentan la agroecología con niños y
+jóvenes a través de talleres, implementación de huertos urbanos, elaboración de graffitis y
+murales colectivos en barrios y colonias de la periferia de la ciudad de San Cristóbal de las
+Casas. También fomenta el uso de las lenguas originarias tseltal y tsotsil a través del Rap
+y el Hip Hop.
+Rosalinda es originaria de un pueblo tsotsil y egresada de la Universidad Moxviquil. Ha sido
+colaboradora de la organización Kinal Ansetik desde el año 2000, promoviendo los
+derechos de las mujeres indígenas, reivindicando el trabajo, la resistencia y lucha de
+mujeres tejedoras y bordadoras no sólo de la región de los Altos de Chiapas, sino
+incluyendo a mujeres de Guerrero, Oaxaca y Guatemala. Como parte de la organización
+colabora en la implementación de procesos formativos como el Diplomado en
+Epistemologías y Políticas de Pueblos Originarios, y encuentros de Guardianas de la Tierra
+y el Territorio, entre otras acciones.
+Neftalí es originario de ejido Nuevo Jericó ubicado en el municipio de Palenque, Chiapas,
+y egresado de la Universidad Moxviquil. Él reconoce que durante sus primeros 18 años de
+vida se mantuvo sin contacto con el trabajo de la tierra, dedicado únicamente a sus estudios
+en instituciones públicas, hasta que concluyó la preparatoria y empezó a trabajar
+esporádicamente en la parcela con su padre. Le gustaba trabajar con el ganado bovino por
+lo que su aspiración era estudiar para médico veterinario. A los 20 años migró a Monterrey
+para trabajar y ahí aprendió algo de los oficios de plomería, herrería y carpintería, pero la
+enfermedad de su padre lo obligó a regresar al ejido, dejando de lado sus aspiraciones de
+continuar sus estudios. Tras el fallecimiento de su papá se enfocó junto con sus hermanos
+al trabajo de la tierra. Durante su proceso formativo en la Universidad Moxviquil tuvo acceso
+a experiencias que cambiaron sus prácticas de la agricultura convencional a una agricultura
+agroecológica. En el año 2023 egresó de la Licenciatura en Autogestión Sustentable del
+Territorio con el sueño de establecer un centro agroecológico en el ejido para mostrar la
+diversificación de cultivos a su comunidad, al tiempo que garantiza la alimentación de su
+familia y el ingreso económico a través de la transformación de productos y su
+comercialización local.
+12
+Lo anteriormente descrito ejemplifica el acercamiento a los sujetos que marcan la
+perspectiva de este proyecto de investigación. Reconozco a cada uno de ellos y ellas como
+portadores de una concepción del mundo, no necesariamente desde el ser indígena, ya que
+cada vez más jóvenes de áreas urbanas se inscriben a las Universidades Interculturales.
+Representan también la diversidad de ontologías y epistemologías presentes entre los
+estudiantes: orígenes culturales distintos, experiencias, saberes e intereses diversos, con
+una concepción propia del mundo y de la vida, algunos con procesos formativos
+comunitarios; lo cual se suma al bagaje de conocimientos y herramientas que les ha
+aportado el sistema educativo oficial, y en particular su experiencia formativa en las
+universidades interculturales. Aunque como se ha señalado en investigaciones previas, en
+estas instituciones se encuentra la persistencia de prácticas y estructuras que reproducen
+jerarquías coloniales; es decir, que perpetúan la colonialidad del poder, del ser y del saber
+(Llyod, 2023).
+El elemento en común que reconozco en estos egresados y otros que he considerado para
+la investigación es que han buscado transformar su realidad –personal, familiar,
+comunitaria, regional-, gestionando sus saberes y haciendo una revaloración de su cultura,
+estableciendo vínculos con otros actores que potencian su quehacer e incidiendo donde
+tienen posibilidad de hacerlo, lo cual no siempre implica a su comunidad de origen.
+Si bien es cierto que no todos los estudiantes egresados regresan e inciden en sus
+comunidades de origen, pues cada una y cada uno tiene sus proyectos de vida e intereses
+particulares, este proyecto de investigación se enfocará en aquellos que con su capacidad
+de agencia se han convertido en lo que he dado en llamar “polinizadores de procesos”,
+desarrollando iniciativas personales y/o acercándose a colectivos, organizaciones,
+instituciones, y quizá a programas gubernamentales para gestionar sus saberes, desarrollar
+sus ideas y prácticas al servicio del bien común.
+Dadas las condiciones actuales del territorio chiapaneco en el que priva la violencia y el
+despojo de la vida comunitaria, resulta relevante no solo saber qué hacen estos estudiantes
+egresados, sino saber dónde lo hacen, con quiénes lo hacen y qué impacto tienen sus
+prácticas en el ámbito comunitario. Retomo el ejemplo de Miguel Ángel, quien junto con sus
+aliados realiza actividades con niños y jóvenes que viven en barrios de la periferia de San
+Cristóbal, y que están en riesgo de ser coptados por el crimen organizado; o de Rosalinda,
+13
+que a través de los procesos organizativos y formativos -que impulsa con su organización-
+con y para las mujeres, aportan elementos que contribuyen a la defensa de los territorios.
+Considero que en ambos casos, además de la revaloración de la cultura, abonan a la
+cohesión del tejido social, y de la construcción de un sentido comunitario o comunalidad
+que trasciende lo local, y preveo que ese es el caso de otros estudiantes considerados en
+la presente investigación. En este sentido veo las acciones de los egresados, como lo
+menciona Norman Long (2007, 2108-109): “proyectos” del actor y las prácticas sociales que
+penetran los varios espacios sociales, simbólicos y geográficos.
+Por el momento me planteo tres ángulos para mirar sus experiencias:
+a) Egresados como sujetos con historia y mundos de vida.- implica conocer quiénes son,
+más allá de sus trayectorias académicas: sus procesos vitales, sus vínculos familiares,
+comunitarios y con la tierra; sus procesos formativos comunitarios y otros, sus valores,
+sus saberes, sus sueños, entre otros aspectos.
+b) Egresados con capacidad de agencia para incidir en las realidades comunitarias.-
+implica conocer cómo al concluir sus estudios de licenciatura y enfrentarse a los
+desafíos de su desempeño profesional gestionan sus saberes académicos y
+comunitarios, y realizan diversidad de prácticas que contribuyen a transformaciones en
+el ámbito cultural, social, económico-productivo, ambiental, así como al fortalecimiento
+de la cohesión comunitaria.
+c) Egresados aportando a una nueva comunalidad en red.- implica conocer su articulación
+o alianzas con sujetos individuales o colectivos con quienes comparten sus algunas de
+sus prácticas para dimensionar el alcance de sus acciones.
+Considerando el rol protagónico que las y los egresados tendrán en la presente
+investigación, he planteado las siguientes preguntas:
+
+ ¿Cómo la gestión de los saberes y prácticas de los egresados de las licenciaturas
+en Desarrollo Sustentable y Autogestión Sustentable del Territorio de la UNICH y la
+Universidad Moxviquil inciden en la transformación de las realidades comunitarias
+en Chiapas?
+
+ ¿Quiénes son y qué identifica el mundo de vida de los egresados de las UI con
+capacidad de agencia que ponen en práctica sus saberes al servicio del bien
+común?
+
+ ¿Qué diversidad de saberes y prácticas ponen en juego los egresados de las UI en
+14
+
+
+el ámbito personal y profesional ante los desafíos que les presentan las relaciones
+y dinámicas complejas del contexto? ¿Cómo hacen los egresados para enfrentar la
+situación de colonialidad y dinámicas de poder?
+¿Qué redes de relaciones y alianzas han establecido las y los egresados que
+fortalecen sus acciones y les brindan recursos para continuar incidiendo y aportando
+a la conformación de la comunidad en red?
+¿Qué apreciación tienen los egresados acerca de la construcción de conocimientos
+académicos y prácticos durante su formación en las universidades que les permiten
+aportar transformación de las realidades comunitarias?
+3. OBJETIVOS DEL PROYECTO DE INVESTIGACIÓN
+OBJETIVO GENERAL DE LA INVESTIGACIÓN
+Conocer la gestión y puesta en práctica de los saberes de los egresados de las licenciaturas
+en Desarrollo Sustentable y Autogestión Sustentable del Territorio para visibilizar su
+incidencia comunitaria en Chiapas, vinculados al propósito de la Universidades
+Interculturales de contribuir a la construcción de una sociedad más justa y equitativa.
+OBJETIVOS
+
+
+
+ESPECÍFICOS
+Enunciar los elementos identitarios de la historia personal y del mundo de vida de
+las y los egresados que contribuyen a su desempeño de roles protagónicos para
+visibilizar la interconexión entre sus experiencias y la trasformación de la realidad
+comunitaria hacia el bien común.
+Indagar el repertorio de saberes y prácticas que despliegan las y los egresados en
+su quehacer personal y profesional, para responder a los desafíos y requerimientos
+comunitarios del contexto, así como en su interacción con las y los actores
+comunitarios.
+Mostrar la red de relaciones con sujetos individuales, colectivos e institucionales con
+quienes las y los egresados comparten algunas de sus prácticas y se agencian
+recursos para potenciar sus acciones y ampliar el sentido comunitario.
+Acompañar un proceso dialógico y reflexivo con las y los egresados respecto a la
+gestión de sus saberes académicos y prácticas al servicio de la transformación de
+las realidades comunitarias para contribuir a retroalimentar la praxis educativa
+intercultural de la UNICH y la Universidad Moxviquil.
+15
+4. REFERENTES TEÓRICOS DE LA INVESTIGACION
+La construcción de un marco conceptual aún está en proceso, y por el momento solo
+menciono como ejes o categorías de análisis la praxis educativa intercultural que se vincula
+a los saberes comunitarios (saber ser, saber hacer, saber actuar), que conjuntamente
+abonan a la toma de conciencia de algunos estudiantes que al egresar encaminan sus
+prácticas hacia la incidencia comunitaria, entendida esta como la puesta en juego de sus
+saberes y prácticas para contribuir a la transformación de la realidad de sus entornos
+locales. Desde mi perspectiva la gestión de estos saberes y prácticas resignifican y
+“aterrizan” los conceptos aprendidos respecto al desarrollo sustentable o la autogestión
+sustentable del territorio, que vienen dados
+ de un modelo abstracto, universal y
+generalizado del desarrollo, dando lugar a una noción de desarrollo regional –y comunitario-
+como un proceso social en el que participan actores diversos con subjetividades distintas
+(Hernández, 2012:204).
+Por otra parte, la interculturalidad, es un enfoque que puede transformar la educación a
+favor de la diversidad, por ello es un concepto esencial para la investigación. A reserva de
+definir más detalladamente este concepto polisémico que está constantemente a debate y
+en construcción (Comboni, y Juárez, 2013), se han identificado al menos tres perspectivas:
+relacional, funcional y crítica. Particularmente, considero a la Interculturalidad crítica como
+una herramienta pedagógica útil para diagnosticar la composición diversa que nos
+caracteriza en las comunidades universitarias, lo cual significa reconocer no solo lo
+indígena, sino las distintas expresiones de identidad de la comunidad: identidad religiosa,
+identidad étnica, personas trans, entre otras, y analizar críticamente cómo se relacionan
+estos grupos con el conjunto de los actores de la comunidad, y de la sociedad; son
+visibilizados o invisibilizados, son incluidos o son excluidos. Y al interior y fuera del aula nos
+puede permitir valorar la diversidad el estudiantado, saber quiénes son, cómo se identifican,
+y propiciar el inter-aprendizaje (Walsh, 2009, Dietz, 2023).
+Otro enfoque que he comenzado a explorar es el de las Pedagogías decoloniales, que en
+principio nos permite situar el conocimiento como un primer eje para ir descolonizando la
+perspectiva, la mente, y también el reconocimiento del lugar desde donde lo estamos
+pensando, en este caso, pensarlo desde México, América Latina con todas sus
+16
+particularidades. Nos invita a sacar las pedagogías del concepto tradicional, no entenderla
+sólo como transmisión de conocimiento, al tiempo que también nos lleva a cuestionar la
+validez que le damos al conocimiento que nos viene dado del Norte global
+Hablar de pedagogías en plural es romper con la idea de que la pedagogía está limitada a
+las instituciones oficiales de educación. Walsh (2007) menciona que las luchas que ejercen
+los movimientos, los colectivos, los barrios populares hacen algún tipo de acción y
+reflexionan sobre ello, desarrollan un continuo proceso de aprendizaje. Las pedagogías
+decoloniales son procesos de sembrar algo distinto, son procesos continuos de caminar, y
+buscar espacios pequeños para abrir perspectivas distintas, por lo que considero que este
+enfoque puede retroalimentar y enriquecer la praxis educativa de las universidades
+interculturales en Chiapas.
+MARCO METODOLÓGICO DE LA INVESTIGACIÓN
+Respecto al marco metodológico, considero provisionalmente que una perspectiva
+orientada al actor podría ser valiosa para comprender los procesos, y las prácticas sociales
+y discursivas que construyen y reconstruyen las y los egresados de las comunidades
+universitarias UNICH y Moxviquil.
+Aun cuando todavía debo profundizar en sus fundamentos conceptuales y metodológicos,
+llaman mi atención las piedras angulares que considero están en resonancia con lo que
+intuyo contribuye al desarrollo de la investigación: su apertura a una amplia diversidad de
+formas sociales y repertorios culturales, el reconocimiento a la capacidad de agencia5 de
+los actores sociales para que asuman roles protagónicos en los espacios locales y sean
+capaces de ordenar, sistematizar sus experiencias –y las de otros-, y actuar sobre ellas;
+la idea de que la acción social y la interpretación siempre están ubicadas en contextos
+específicos y se generan dentro de estos, y se construyen a partir de significados y valores
+5 La noción de agencia humana se caracteriza por resaltar el protagonismo del individuo como un actor social con capacidades
+de comprensión, interpretación y cuestionamiento hacia las macroestructuras y las tendencias dominantes de los modelos de
+desarrollo occidentales, caracterizados por ser excluyentes, autoritarios y, por lo general, diseñados en las esferas
+burocráticas estatales, nacionales y de élite dominante (Hernández, 2012:200).
+17
+culturales, lo que implica un reconocimiento explícito de la heterogeneidad y a la diversidad
+cultural.
+“Tanto en lo teórico, metodológico, como en el ámbito de aplicación, la perspectiva de Long,
+en cuanto a la intervención estatal, supondría revertir tendencias históricas de centralismo
+político en la toma de decisiones, que de manera reiterada han ignorado las configuraciones
+sociales y los mundos de vida de sujetos, comunidades rurales, urbanas, indígenas, ejidos,
+rancherías y movimientos urbano-populares.” (Hernández, 2012: 201)
+Otro aporte que considero valioso es el de “interfaz social” que me permitirá explorar “las
+maneras en que las discrepancias de interés social, interpretación cultural, conocimiento y
+poder son mediadas, y perpetuadas o transformadas en puntos críticos de eslabonamiento
+o transformación. El concepto de interfaz ayuda al enfoque en la producción y
+transformación de las diferencias en las maneras de ver la vida y los paradigmas culturales
+(Long, 2007:144).” Long también describe la interfaz como un “encuentro de horizontes”
+donde el conocimiento emerge como un producto de la interacción, diálogo, reflexión y
+contiendas de significado, e involucra aspectos de control, autoridad y poder, todo lo cual
+me parece está vinculado a las relaciones coloniales a las que se enfrentan los estudiantes
+egresados tanto al interior de como en la realidad que enfrentan cotidianamente.
+En la perspectiva del actor también se hace alusión a la pertinencia de recurrir a la
+etnografía para explorar las interrelaciones que se dan en las interfaces. A ese propósito,
+identifiqué una experiencia con lo que Dietz y Mateos denominan “etnografía reflexiva” y la
+describen como un quehacer reflexivo que desde dentro recupera el discurso del actor
+social, a la vez que desde fuera lo contrasta con su respectiva praxis habitualizada, para lo
+cual proponen que la  ́etnografía reflexiva desarrollada en situaciones interculturales
+necesariamente habrá de ampliar el horizonte analítico de las dimensiones discursiva
+(centrada en los "saberes") y práctica (centrada en los "haceres") hacia un tercer eje de
+análisis: las estructuraciones institucionales específicas, producto del papel que juegan los
+"poderes", las desigualdades, hegemonías y asimetrías de poder en la política de identidad
+del actor en cuestión y de su contexto estructural. (Dietz y Mateos, 2010)
+Y agregan que la concatenación de saberes, haceres y poderes refleja a su vez la
+necesidad de ampliar la noción de interculturalidad a cuestiones no estrictamente culturales,
+18
+que incluyan también saberes y prácticas procedentes de otro tipo de actores. Así, al
+proceso de acompañamiento metodológico y etnográfico se suman otras tres dimensiones
+complementarias: una dimensión semántica centrada en el actor, una dimensión
+pragmática centrada en la interacción, y una dimensión sintáctica, centrada en la institución,
+y para cada una aportan herramientas y pistas metodológicas que plantean la necesaria
+orientación dialógica y colaborativa en las investigaciones comprometidas con los actores
+y movimientos sociales, con una también necesaria aportación crítica y transformadora de
+las prácticas de estos actores, de sus tramas organizativas y de sus inserciones
+institucionales.
+En la parte operativa de la metodología, asistiré a las comunidades, participando de las
+prácticas que realicen los egresados, asimismo asistiré a encuentros, intercambios de
+experiencias y demás actividades de su quehacer cotidiano.
+Asimismo recurriré a la entrevista como una forma de escudriñar en las experiencias vividas
+por las y los egresados, considerando la entrevista como una forma de narrar el mundo, y
+mantener viva la teoría al confrontarla con la realidad social que se vive (Romero, 2021).
+Planteo esquematizar la red de relaciones que contribuyen a fortalecer los saberes y
+prácticas de los saberes de los egresados, para visibilizar el impacto que tienen en los
+ámbitos: familiar, comunitario y regional.
+Considero promover encuentros y foros de egresados propiciando el diálogo de saberes y
+la reflexión de su práctica.
+Todos los elementos enunciados particularmente en este apartado, reflejan apenas
+primeras aproximaciones a ciertas perspectivas y enfoques conceptuales y metodológicos,
+en las que me ocuparé de profundizar a fin de que sirvan al desarrollo de la investigación,
+que aún continúa en el proceso de definición.
+19

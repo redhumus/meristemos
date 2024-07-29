@@ -1,0 +1,458 @@
+Proyecto de investigación Doctorado en Desarrollo Rural de la Universidad Autónoma
+Metropolitana, Unidad Xochimilco, que elabora Iker Javier Pulido Rodríguez. Abril de
+2024
+A continuación, se presenta el Anteproyecto de investigación utilizado para postular el
+ingreso al DDR en su versión original (en color negro) y varias modificaciones (color verde),
+interpelaciones (color azul) y pendientes (color rojo) a desarrollar para la constitución de un
+proyecto acabado que dará curso a la investigación doctoral en los próximos tres años.
+Título provisional
+Diáspora por conflicto socio-ambiental en tres localidades de los Altos de Jalisco, México.
+No retorno de hijos ausentes de Temacapulín, Jalisco, México.
+La modificación al título provisional del proyecto de tesis doctoral obedece a un cambio
+radical en los problemas y preguntas a tratar. Aunque la investigación conserva como
+temática general el asunto de los movimientos migratorios de personas, se abandona por
+completo el concepto de diáspora como eje fundamental del tratamiento teórico y se adoptan
+los problemas sobre el retorno y no retorno de personas en situaciones migratorias. Al excluir
+del título el concepto de diáspora se elimina también la pretendida correlación de este
+fenómeno de dispersión de población con un conflicto socioambiental que enfrentaron tres
+localidades de los Altos de Jalisco (Temacapulín, Acasico y Palmarejo).
+El titulo continúa siendo provisional y por ahora solo cumple una función orientadora, en ese
+sentido es susceptible de futuras modificaciones.
+Planteamiento del Problema
+Se pretende abordar el problema del desplazamiento de personas en su vinculación con los
+conflictos socioambientales de corte territorial-hidrosocial, en específico con aquellos que se
+generan a partir de la imposición de proyectos de construcción de infraestructura para la
+gestión del agua de los ríos (conflictos por represas). El caso de interés particular es la
+diáspora, que sostengo está ocurriendo, en tres localidades jaliscienses (Acasico, Palmarejo
+y Temacapulín) afectadas por la represa El Zapotillo, ubicada en el cauce del Rio Verde en
+la región de los Altos Sur de Jalisco, México.
+El proyecto presa El Zapotillo se gestó a partir de 1997 cuando el gobierno mexicano a través
+de la Comisión Nacional del Agua (CONAGUA) y los gobiernos estatales de Guanajuato y
+Jalisco, firmaron un acuerdo para el aprovechamiento del agua del Río Verde. En él se
+formalizó la construcción de una presa que se construiría cerca del poblado de San Nicolás,
+municipio de Jalostotitlán, Jalisco, México. Dicha obra se canceló por la presión organizativa
+de los poblados afectados y a partir de ese acontecimiento surge la alternativa de la presa El
+Zapotillo que estaría ubicada en los Altos de Jalisco, aproximadamente a 100 kilómetros de
+la ciudad de Guadalajara.
+Según Delgado (2020), El Zapotillo se anunció oficialmente en 2005, bajo el argumento de
+que su edificación tenía el objetivo de abastecer de agua potable a la ciudad de León, del
+estado de Guanajuato y a algunas ciudades del nororiente de Jalisco. En junio del año 2005,
+la CONAGUA, comenzó estudios del subsuelo, para la cortina de 80 metros de altura, sin
+que los pobladores de las localidades afectadas estuvieran enterados, menos aún conformes.
+Dos años más tarde, en septiembre de 2007 y sin consulta previa, la población se dio cuenta
+del aumento de la capacidad de almacenamiento de la presa y la altura de cortina a 105
+metros, lo que significaba la inundación y el desplazamiento de las comunidades Acasico,
+Palmarejo y Temacapulín.
+Ante estos hechos, la respuesta unánime de los pobladores fue un no rotundo a la inundación
+y el desplazamiento, pero ese no, se manifestó de diversas formas, de entre ellas, algunas
+aparentemente paradójicas, como el hecho de que un sector de cada poblado “opto” por
+vender sus casas y terrenos a la CONAGUA y abandonar el territorio. Esta paradoja encierra
+varias preguntas problemáticas desde un punto de vista científico social y de desarrollo rural,
+quizá la más obvia es ¿por qué las personas optaron por vender sus terrenos y casas cuando
+no están de acuerdo con la inundación ni con el desplazamiento de la comunidad?
+De este grupo de personas, algunos habitaron casas que el Gobierno Estatal construyó para
+sustituir las casas de los poblados a inundar, otros optaron por quedarse en sus casas mientras
+el conflicto no se resolvía, pero la gran mayoría de ellas optaron por un proceso de dispersión
+que incluyo la marcha a ciudades cercanas, grandes ciudades dentro del estado de Jalisco,
+Metrópolis de la república mexicana, polos de desarrollo nacionales y diversas ciudades de
+los Estados Unidos. Estos grupos de población son los sujetos de interés del presente
+anteproyecto de investigación.
+La actualidad del conflicto pasa por un compromiso del Gobierno Federal de México de no
+inundar ninguna de las tres comunidades y de aplicar un plan de resarcimientos de
+afectaciones en los tres poblados, denominado Plan de Justicia y Reparación. En ese marco,
+los sujetos de estudio han quedado en un limbo jurídico y de reconocimiento social de sus
+pares que no vendieron, resistieron y lucharon contra la represa El Zapotillo. Sin embargo,
+pareciera que también son afectados, porque aunque “optaron” por “evadir el conflicto”,
+aparentemente nunca han dejado de añorar el terruño durante su ausencia y ahora quieren
+retornar y no pueden.
+De la situación descrita surge el problema de ¿cómo denominar la posición de estas personas
+afectadas por el conflicto socioambiental de corte territorial hidrosocial por la
+implementación de la represa El Zapotillo?, La apuesta teórica es que el concepto de diáspora
+ayuda a entenderla y, justificar esta apuesta forma parte del reto académico que se impone
+en el anteproyecto de investigación.
+Establecer una denominación de la situación de estas personas afectadas o al menos lograr
+una descripción detallada de su posición mediante un estudio empírico y riguroso de corte
+cualitativo, puede contribuir a resolver el problema de ¿cómo resarcir los daños que
+experimentan otras personas que podemos sospechar se encuentran es escenarios similares?,
+por ejemplo, personas que prácticamente se ven obligadas a dejar sus territorios por el crimen
+organizado en México.
+Cuando en 2005 el gobierno estatal de Jalisco y la Comisión Nacional del Agua
+(CONAGUA), proyectaron la construcción de la represa El Zapotillo en los márgenes del río
+verde y, con ello, la inundación de tres comunidades de los Altos de Jalisco Sur, uno de los
+argumentos que justificaba la desaparición de los tres poblados fue que el número de
+habitantes de cada uno era tan nimio que valía la pena desplazar a las persona a cambio del
+bien mayor que significaba el abastecimiento de agua para la industria y los hogares de
+ciudades como León, Guanajuato y Guadalajara, Jalisco.
+Una de las pequeñas comunidades que estuvo en peligro de desaparecer por la edificación de
+infraestructura hídrica para el desarrollo es Temacapulín, cuya población no rebasaba los 450
+habitantes (según el censo de población y vivienda de 2010, del INEGI) en los momentos
+más álgidos del conflicto socioambiental que se derivó de la imposición de la presa de 80
+metros de altura. El dato poblacional resulta contradictorio con la larga historia del pueblo,
+cuyos primeros asentamientos datan de finales del siglo XV. Los registros que han podido
+rescatar algunos historiadores indican que la población de Temacapulín se ha mantenido baja
+durante largos periodos, pero siempre en crecimiento. Según Frajoza (2013) a principios del
+siglo XVI contaba con alrededor de 300 tributarios de la encomienda de Francisco de
+Zaldívar. En 1770 el pueblo tenía una población de 546 habitantes repartidos en 85 familias.
+En 1793 la población de “indios” en el lugar ascendía a 300 personas. En 1840 los indígenas
+se computaban en 346 habitantes. Mientras que para el año 1854 el total de residentes
+(indígenas y no indígenas) era de 1577 personas.
+Sin embargo, ya para mediados del siglo pasado la población comenzó a sufrir
+decrecimientos dramáticos.
+De hecho, en 1950 Temacapulín contaba con 1208 habitantes, en 1960 tenía 859
+habitantes; para 1970 el número se redujo a 616; en 1980 solo tenía 408; es decir, en
+treinta años la población había disminuido en poco más del 60%. (Frajoza, 2013:
+208).
+De acuerdo con Frajoza (2013) el estancamiento o decrecimiento de la población de este
+lugar de las cañadas de los Altos de Jalisco Sur se explica, al menos para los últimos 80 años,
+por los altos flujos migratorios de sus habitantes hacia grandes centros de población en
+Estados Unidos de Norte América (EU) y México. A partir de 1960 existen registros de la
+cantidad de personas que por municipios migraban hacia EU, por ejemplo, en ese año 362
+agricultores de Cañadas de Obregón, Mexticacán y Yahualica (tres de los 6 municipios de
+Jalisco que se identifican como parte de la región denominada Altos de Jalisco Sur, y uno de
+ellos –Cañadas de Obregón- demarcación político-administrativa a la que pertenece
+Temacapulín), solicitaron ingresar al Programa Bracero para trabajar en Estados Unidos -
+67.4% casados, 31.7% solteros y 8% viudos -, resultando solo 50 individuos agraciados, es
+decir, el 13.8%; esto indica que alrededor de 50 jefes de familia de estos tres municipios
+emigraban legalmente hacia el país del norte cada año, por lo menos durante el tiempo que
+duró el Programa Bracero.
+Por supuesto que el fenómeno migratorio no es el único factor determinante del
+estancamiento y en algunos casos disminución de la población, pero a juzgar por la historia
+de los Altos Sur de Jalisco, cuya presentación detallada será clave para explicar la
+problemática que se desea abordar en la investigación, parece obvio que los movimientos
+migratorios son un elemento importante a considerar para analizar el despoblamiento actual
+que se percibe en Temacapulín y sobre todo en algunos pueblos vecinos que ya han sido
+abandonados (El pueblo de Palmarejo) o que cuentan con una población residente muy escasa
+(apenas 14 habitantes para el caso del pueblo denominado Acasico).
+Ahora bien, de esta pequeña porción de datos preliminares, se pueden inferir ya una serie de
+problemas relacionados entre sí, cuyos vínculos, a nuestro modo de ver, tienen ver con la
+población y los movimientos migratorios. Por ejemplo, dado el carácter del programa
+doctoral vale la pena intentar observar la relación entre población, migración y desarrollo
+local. O bien, tomando en cuenta el conflicto territorial hidrosocial del que vienen apenas
+recuperándose las personas que resistieron a la embestida del Estado, las empresas
+trasnacionales de construcción de infraestructura y otros agentes de poder hídrico, sería
+interesante focalizar los esfuerzos de investigación a comprender los vínculos entre los
+movimientos migratorios, el desarrollo local y los conflictos territoriales (como de hecho se
+estaba planteando en el anteproyecto de tesis original). En fin, parece haber varias
+problemáticas que se pueden derivar de las correlaciones fenoménicas enunciadas
+Del cumulo de problemas posibles, se ha optado por priorizar aquel que, desde el ángulo de
+las personas que habitan actualmente Temacapulín resulta más cercano a sus intereses. En
+ese sentido, se parte de un supuesto que, aunque surge de una intuición lógica, está respaldado
+por algunas teorías micro analíticas sobre las motivaciones para la emigración y sobre todo
+por la mayoría de las experiencias de migración a la que se ha tenido acceso en Temacapulín.
+Nos referimos a la idea de que quienes migran, independientemente de las causas que
+motivan esa decisión, tiene en principio la intención de retornar a sus lugares de origen.
+Aceptar este supuesto es importante para la investigación pues con él de por medio se admite
+que el no retorno es un problema, al menos en un sentido de despoblamiento regional en las
+comunidades de origen.
+Pues bien, considerando el supuesto de la intención de retorno ha surgido un problema que,
+desde el punto de vista de algunas personas que no han emigrado o que habiendo emigrado
+retornaron a Temacapulín, resulta relevante; esta problemática se formula en forma de
+pregunta (como la mayoría de los problemas de investigación), que en este caso versa de la
+siguiente manera: ¿Por qué algunos hijos ausentes no regresan a Termaca? Intuitivamente
+surgen muchas respuestas posibles desde las personas que habitan Temacapulín, sobre todo
+de aquellas que habiendo retornado tienen un hijo ausente que reside en alguna ciudad de la
+república mexicana o de EU, pues conjeturan desde la propia experiencia de la emigración.
+Sin embargo, esas respuestas que tendrán que ser contrastadas con la voz de los que no
+retornan, no dejan de ser solo hipótesis que guiaran la investigación pero que al final pueden
+ser confirmadas o negadas.
+Atendiendo el valor epistémico de los conceptos que utilizan los propios actores involucrados
+en la investigación, se propone utilizar la denominación hijo ausente como alternativa al
+étimo migrante. Esta elección lleva también consigo el objetivo de evitar el ambiguo y vago
+concepto de migración (sobre todo al momento de interactuar con las personas), cuyas
+dificultades de designación y medición repercuten en complicaciones de comprensión y
+también de corte teórico macro y microanalítico. Suponemos que al usar el concepto de hijo
+ausente serán mucho más operativos los encuentros, entrevistas y referencias al fenómeno de
+estudio con las personas que así han definido a sus emigrantes que no retornan. Además, es
+un hecho que los propios hijos ausentes de Temacapulín forman Clubs de Hijos Ausentes de
+acuerdo a los lugares de destino. Así, hay Club de Hijos Ausentes de Temaca en Los Ángeles
+California, en Monterrey Nuevo León y en muchas otras ciudades de México y EU.
+Por otro lado, es posible que en la delimitación conceptual del concepto de hijo ausente se
+puedan observar algunos ángulos epistémicos que no permite ver el concepto de migrante y
+en ese sentido cabe la posibilidad de que la categoría creada por los no expertos en ciencias
+sociales contribuya al esclarecimiento de algunas aristas teóricas todavía escurridizas del
+basto y complejo fenómeno migratorio.
+De la problemática general planteada a manera de pregunta, surgen unas tantas más que
+tendrán que ser abordadas a lo largo de la investigación, de entre ellas, quizá las más
+relevantes son: ¿Cuáles son los elementos contextuales macro estructurales que contribuyen
+a que las personas tomen la decisión de migrar?, ¿Cuáles son las condiciones históricas que
+han ido configurando la vocación expulsora de la microrregión referida?, ¿Qué elementos
+culturales de la región están involucrados en la decisión de migrar?, ¿de qué manera opera el
+hecho migratorio para quienes deciden salir de su terruño?, ¿Cuáles son los criterios
+económicos, sociales, culturales, afectivos y de otra índole que definen el retorno o no
+retorno?, ¿Cómo se van configurando nuevas alternativas al retorno?, ¿Qué ocurre con las
+identidades en los procesos de asimilación y asentamiento y cómo influye esto en la decisión
+de retornar o no retornar?, entre otras.
+El problema de investigación se replantea a partir de las primeras aproximaciones a las
+lecturas tratadas en el Seminario I del doctorado, que en términos generales sugerían una
+ruptura epistemológica en tres sentidos: 1) Una visión crítica a los mecanismos tradicionales
+de hacer ciencia social; 2) Apertura a la validación de distintas formas de conocimiento y de
+conocer; 3) Cuestionamiento a las funciones de las personas que investigan y a la figura del
+sujeto cognoscente.
+En el planteamiento original se manejaba una hipótesis de trabajo con la que se anteponía,
+para el caso de los movimientos migratorios de una microrregión de los Altos Sur de Jalisco,
+México, la existencia de un fenómeno que desde la demografía histórica ha sido denominado
+como diáspora. Con este concepto de por medio se pretendía explicar un cambio perceptible
+en las motivaciones para emigrar (en principio principalmente económicas), que tiene que
+ver con procesos conflictivos que se han ido sucediendo en los últimos quince años en la
+región de estudio: por un lado, el conflicto socioambiental que enfrentó la imposición del
+proyecto de represa El Zapotillo con la resistencia de Temacapulín, Acasico y Palmarejo,
+Jalisco. Por otro lado, los conflictos por el control del territorio operados por el crimen
+organizado en colusión aparente con el gobierno estatal de Jalisco, que supone un estado de
+amenaza permanente a la seguridad y bienestar de las personas que habitan la región (estado
+de excepción).
+En ese tenor, una de los intereses primordiales del proyecto de investigación era
+problematizar sobre varios de los conceptos que se utilizan para describir la movilidad de
+personas de sus lugares de origen a otros, por ejemplo: migración, desplazamiento,
+relocalización, diáspora, entre otros; para arribar a un concepto operativo que pueda describir
+el caso de manera diferenciada y adecuada. En esta tesitura, el interés primordial era de corte
+conceptual y teórico, priorizando objetivos epistémicos enmarcados en el campo académico
+y científico social. Las contribuciones de la investigación se vislumbraban prioritariamente
+técnicas y científicas.
+El replanteamiento reposiciona prioridades y antepone problemáticas comunitarias a las
+contribuciones que puedan surgir de cara a una comunidad epistémica definida desde el
+ámbito académico y científico. Aunque la hipótesis de que el concepto de diáspora pueda ser
+operativo para describir los desplazamientos que están ocurriendo en Temacapulín, Acasico
+y Palmarejo, carece de legitimidad en cuanto a los intereses y problemáticas sociales
+presentes en las comunidades en donde se pretendía llevar a cabo la investigación. Por lo
+tanto, el abandono del concepto diáspora y la posible correlación con los conflictos descritos
+anteriormente parece justificado.
+Queda pendiente precisar algunos datos demográficos de Temacapulín, así como aportar
+datos históricos que expliquen en términos no migratorios los datos demográficos relevantes
+que permiten plantear el problema.
+Es necesario también, pulir las principales preguntas de investigación para perfilarlas en el
+sentido de que contribuyan a responder la pregunta principal.
+Justificación y relevancia del tema
+Los conflictos socioambientales por la construcción de Grandes Represas (GR) son una
+constante en el México actual, tan sólo en los últimos quince años se concluyeron y
+construyen numerosas obras de este tipo a pesar de la oposición de diversos actores sociales
+involucrados. Según Domínguez (2019), los proyectos más recientes son: La Parota en
+Guerrero; Aguamilpa, El Cajón y La Yesca en Nayarit; Picachos en Sinaloa; Centenario de
+la Revolución en Michoacán; Realito y Paso de Vaqueros en Guanajuato; Nuevo Yathé en
+Hidalgo; La Higuerilla en Baja California Sur; Dolores Ventilla en San Luis Potosí; Santa
+María y Centenario (Los Pilares) en Sonora; Centenario (Paso Ancho) en Oaxaca; El
+Zapotillo en Jalisco e incluso en este mismo estado, las presas: (detenida) El Naranjo y
+(cancelada) Arcediano, son promotoras de conflictos.
+Normalmente, este tipo de situaciones emerge cuando los gobiernos (en este caso federal y
+estatal), mediante organismos como la Comisión Nacional del Agua (CONAGUA) o la
+Comisión Federal de Electricidad (CFE), proponen o imponen proyectos de gestión de las
+aguas nacionales que implican la modificación biofísica y del paisaje ecológico en una
+delimitación geográfica determinada. Una de estas formas de intervención sobre el territorio
+es la construcción de GR, que desde la perspectiva de distintas instancias de gobierno supone
+desarrollo económico, productivo y social; pero desde la visión de comunidades campesinas
+y pueblos originarios que habitan los sistemas ecológicos a modificar significa trasgresión a
+sus modos de producir, vivir y convivir.
+Si se toma en cuenta el Informe elaborado en el año 2000 por la Comisión Mundial de
+Represas (CMR), las posturas divergentes sobre la implementación de GR como mecanismo
+de manejo del agua que mantienen autoridades gubernamentales mexicanas en
+contraposición con las poblaciones que se asumen afectadas, son una representación de lo
+que ocurre a nivel planetario.
+Las enormes inversiones y los impactos generalizados de las grandes represas han inflamado
+conflictos relacionados con la ubicación y los impactos de las grandes represas, tanto las existentes
+como las propuestas, convirtiendo hoy en día a las grandes represas en uno de los asuntos más
+controvertidos en materia de desarrollo sustentable. (CMR, 2000: 6)
+Quizá la principal conclusión a la que llega el Informe de la CMR y que aquí se rescata es
+que la planeación, implementación y operación de este tipo de obra hídrica producen una
+serie de impactos violentos con efectos negativos para los sistemas biofísicos, entornos
+ambientales y, en particular, para las poblaciones que se encuentran en, o próximas a los
+embalses.
+En términos de los impactos sociales de las represas, la Comisión encontró que con frecuencia los
+efectos negativos no se valoraban ni se tomaban en cuenta adecuadamente. Existe una gran variedad
+de impactos que abarcan las vidas, los medios de subsistencia y la salud de las comunidades que
+dependen de los ambientes ribereños afectados por las represas. (CMR, 2000: 19)
+Ciertamente, de los posibles efectos negativos resultantes de la construcción de GR, los que
+se encuentran asociados a los aspectos sociales no son considerados o son poco valorados
+por quienes las proponen, de tal forma que se anteponen evaluaciones técnicas, económicas
+y administrativas a las posibles afectaciones socio-culturales, antropológicas y psicosociales
+de las poblaciones.
+Si se focalizan los efectos sociales que vienen aparejados con la construcción de represas, los
+más documentados por diversas investigaciones se relacionan con relocalizaciones o
+reubicaciones forzadas de población, la pérdida de patrimonio cultural, la destrucción de
+lugares sagrados, los daños ecológicos que repercuten en la salud y la pérdida de fuentes de
+subsistencia, todas ellas asociadas con el despojo de tierras y territorios (McMahon, 1973;
+Bartolomé y Barabas, 1990; Robinson 1993, 1994, 2001, 2002, 2006; McCully, 2001; Shiva,
+2003; Castro, 2005, 2006, 2007; AIDA, 2009; por citar algunos).
+Evidentemente, el fenómeno social denominado diáspora no figura entre los efectos sociales
+que se desencadenan a partir de la construcción de GR, su no identificación dentro del
+conjunto de las problemáticas apenas señaladas arriba, justifica atención académica de las
+ciencias sociales en la medida que desde la perspectiva del potencial investigador es un hecho
+social presente en la larga lista de las problemáticas socioambientales nacionales.
+Bajo la lupa del replanteamiento del problema de investigación, su justificación principal
+pasa por la legitimidad comunitaria que se le puede adjudicar. De acuerdo con Delgado
+(2020), Durante el proceso de resistencia a la imposición de la represa El Zapotillo, los
+habitantes de Temacapulín experimentaron varios procesos traumáticos desde el punto de
+vista psicosocial que dejaron secuelas graves en el tejido socio comunitario, entre ellas
+división interna, polarización y desgaste. Estos efectos adversos del proceso de resistencia se
+relativizan en la medida en que los actores o sujetos son capaces de conformarse como
+agentes de su propio devenir comunitario y tomar el control de su vida comunitaria.
+El hecho de que Temacapulín, Acasico y Palmarejo lograran resistir a la desaparición física
+de sus respectivos pueblos pasó por una serie de apoyos que trascendieron a sus habitantes,
+principalmente, fueron los hijos ausentes de Temacapulín quienes contribuyeron económica
+y políticamente a preservar la resistencia del pueblo debido a que los canales de organización,
+comunicación, contribución y colaboración ya estaba predefinidos previamente al conflicto.
+Pero, por otro lado, la no presencia física de estos emigrantes limitaba la capacidad
+organizativa y de movilización que se requirió durante los 15 años de resistencia.
+La participación de los hijos ausentes de Temacapulín en la vida comunitaria es
+principalmente económica. La subsistencia de Temacapulín, en términos monetarios, no se
+puede entender sin el envío de remesas de los migrantes, ya sean estos del interior del país
+(León, Guadalajara y Monterrey) o de los Estados Unidos, donde existe una población
+originaria de Temacapulín de aproximadamente 10,000 personas según el censo elaborado
+por club de hijos ausentes de Temacapulín que radica en los Ángeles California. A pesar de
+esta contribución permanente, la no presencia física de los hijos ausentes trastoca
+sensiblemente muchos ámbitos de la vida de las personas que entrañan a los ausentes y, por
+supuesto, también de las personas ausentes.
+Para comprender la relevancia de la problemática de la ausencia o del no retorno de las
+personas puede valer el siguiente testimonio surgido en 2014 a propósito de una entrevista
+que tuvimos la oportunidad de realizar en el contexto del conflicto por la represa El Zapotillo
+Con ayuda del padre y de los clubes de ausentes que estamos en California y en otras
+partes, sacamos una cuenta de los que estamos fuera, entre gente con papeles y sin
+papeles y pues somos más de 10,000, pero no hacemos pública toda la información,
+por seguridad de las familias que no todas tienen papeles y eso es duro, porque hay
+gente que no puede regresar aquí a Temaca y nos preguntan todo el tiempo que cómo
+está su gente, la familia y cómo están las novedades... es duro porque casi todos
+soñamos con regresar al pueblo, al hogar y no todos podemos. (Entrevista a Ime, de
+club de hijos ausentes de los Ángeles California, 2014).
+En cierto sentido, el problema de investigación está justificado en la medida en que durante
+el proceso de indagación se logre generar un espacio de diálogo (aún en la distancia), entre
+los que viven en Temacapulín y quienes se encuentran en situación de no retorno por medio
+de la pregunta ¿por qué no regresan? La pregunta no pretende ser un reproche, nadie en
+Temacapulín lo ha planteado de esta manera, más específicamente se trata de una pregunta
+legítima que intenta responder a otras cuestiones que atraviesan los fenómenos de las
+ausencias, las identidades y las afectividades de las personas entre sí mismas y de las personas
+con el terruño.
+Por otro lado, al poner en el centro del análisis las subjetividades, se asume el surgimiento
+de problemas, preguntas y fenómenos insospechados. Se espera con ello estar a la altura del
+acontecimiento y poder ver esos indicios que contribuyan a la compresión del fenómeno
+migratorio desde un humilde estudio de casos de familias de Temacapulín que viven las
+situaciones migratorias descritas como problemáticas.
+La colocación de las problemáticas cercanas a la comunidad - o que aparentemente son más
+cercanas a la comunidad - en primer orden de prioridad, sustituyendo con ello la primacía
+que se le otorgaba a una discusión de corte teórico-conceptual en la primera versión del
+anteproyecto de investigación, constituye una revisión crítica de los fines y objetivos de
+investigar, así como del posicionamiento científico, ético y político de quien pretende
+investigar. El compromiso que se adquiere con esta revisión es velar por conservar una
+posible función social de los procesos de investigación, este aprendizaje es una marca
+registrada del programa doctoral y de quienes integran su planta docente. En ese sentido, los
+materiales que se han discutido en cada una de las concentraciones vividas han contribuido
+a replanteamientos que sugieren mejoras en el oficio de investigar.
+Quedan pendientes aquí justificar el cambio espacial del proyecto de investigación. Es decir,
+explicar las razones prácticas por las que se abandona el estudio de tres comunidades y se
+conserva solo una de ellas. Sobre todo, se necesita justificar la representatividad de una sola
+comunidad en términos de explicación del fenómeno del no retorno, esta explicación estará
+correlacionada con lo que a continuación se explica sobre la posibilidad de estudiar familias
+y no individuos.
+Objetivos de la investigación
+No hace falta justificar que los conflictos socioambientales de corte territorial hidrosocial
+representan un problema nacional cuyas múltiples aristas son susceptibles también de
+atención científica. Del abanico de posibilidades investigativas, el aspecto que aquí se
+propone estudiar tiene que ver con una comprensión multidisciplinar de las modalidades del
+desplazamiento de población por la implementación de GR, para documentar y analizar la
+variedad y los niveles de afectaciones en la vida de las personas y las colectividades, ligadas
+a la ausencia material del territorio. Se trata de profundizar en las subjetividades para
+categorizar y dimensionar un fenómeno que el candidato a doctorante considera recurrente
+en la geografía mexicana, a saber: la separación del terruño por motivos o razones no
+económicas (por ejemplo conflictos socioambientales, pero también otros conflictos por el
+territorio ligados a la delincuencia organizada, la guerra de baja intensidad; el extractivismo;
+la violencia política, entre otras)
+En el título provisional del anteproyecto de investigación se utiliza el controvertido concepto
+de diáspora (Safran, 1991; Tölölyan, 1991; Helmreich, 1992; Van Hear, 1998; Santos, 2000;
+Butler, 2001; Augé, 2002; Sheffer, 2003; Evans y Mannur, 2003; Hall, 2003; Hayes Edwards,
+2004; entre otros) para referir al tipo de desplazamiento que interesa estudiar. Uno de los
+objetivos es provocar una discusión ontológico-epistemológica que lleve a una propuesta de
+sentido y su diferenciación (con fines analíticos) de otros conceptos semánticamente ligados
+como: migración, globalización, relocalización, reubicación y desplazamiento. Además, una
+discusión teórica de este corte aspira a proponer un concepto analíticamente operativo para
+las pretensiones investigativas apenas planteadas, en términos de profundizar en el campo de
+las subjetividades y lo simbólico.
+Otro aspecto a abordar como objetivo de investigación es que en México, un número limitado
+de las consecuencias sociales adversas son reconocidas a nivel institucional por los
+organismos públicos y privados promoventes de las GR. En ese sentido, algunas veces llegan
+a forman parte de las consideraciones manifiestas de planes, políticas y proyectos de
+desarrollo orientados a la gestión del agua mediante Manifestaciones de Impacto Ambiental
+(MIA) o Evaluaciones de Impactos Sociales (EIS).
+Sin embargo, para el caso mexicano, el reconocimiento de los efectos sociales perjudiciales
+apenas se traduce en políticas públicas o marcos legales que regulen la implementación de
+las obras en este ámbito. Por ejemplo, desde agosto de 2014 el artículo 121 de la Ley de
+Hidrocarburos y desde octubre de ese mismo año el artículo 120 de la Ley de la Industria
+Eléctrica, obligan a los interesados en obtener un permiso o autorización para el desarrollo
+de un proyecto del sector energético a elaborar una EIS. Como resultado de esta obligación,
+para el primero de junio de 2016 se publicó en el Diario Oficial de la Federación (DOF) las
+Disposiciones Administrativas de Carácter General sobre la Evaluación de Impacto Social
+en el Sector Energético. Pero a pesar de este avance, se observan algunas limitantes en la
+legislación, la primera es que solo abarca a los proyectos vinculados al sector energético, con
+lo cual las GR no destinadas a la generación de energía eléctrica quedan fuera de la ley; por
+ejemplo, la represa El Zapotillo.
+La ausencia de un marco legal que regule o contenga las desmedidas pretensiones de
+modificación-adecuación del paisaje, a favor de una política de gestión del agua que se puede
+adjetivar como anacrónica, abre la puerta a la escalada en los conflictos socioambientales de
+corte territorial hidrosocial por la construcción de GR. En ese sentido, se torna socialmente
+útil una ampliación y reconocimiento de los efectos adversos que desencadenan estas
+propuestas de desarrollo en la vida de las personas. Si el potencial reconocimiento lleva a
+una legislación prudente que regule en la materia, la propuesta de investigación no desdeña
+el aportar elementos a favor.
+Finalmente, el objetivo primordial de la investigación que se propone es dar cauce a una
+demanda explicita de los pueblos afectados por la presa El Zapotillo, en el sentido de exponer
+una situación crítica de despoblamiento que están viviendo aún y cuando se puso en marcha
+un Plan de Justicia y Reparación de los daños por el conflicto. El fenómeno no es menor si
+se considera que durante el siglo pasado hubo una explosión de emigración hacia ciudades
+de Estados Unidos de Norte América y México, que sin embargo no destruyo la producción
+agroalimentaria local y mucho menos se planteó un abandono definitivo del terruño. La
+actualidad es una en la que el despoblamiento acompaña la desagrarización del campo y la
+imposibilidad de no retornar porque los fenómenos que amenazan la vida de las personas
+pasan por los proyectos de desarrollo, el robo de tierras, la ocupación militar y delincuencial
+del territorio, la venta de plazas para el narcotráfico y algunos otros fenómenos de violencia
+política perpetrados por diversos grupos de poder.
+En ese sentido, la investigación está planteada para hacerse con intereses académicos que no
+están desvinculados de los intereses de las personas con las que deseamos colaborar para
+responder a los cuestionamientos, a saber: las y los habitantes de Acasico, Palmarejo y
+Temacapulín. Los productos y frutos que pudieran generarse de esta experiencia serán
+compartidos con las comunidades, con las que además he establecido otros compromisos de
+acompañamiento que son compatibles y mutuamente complementarios con esta
+investigación.
+Objetivos.
+Primero. Responder científica y satisfactoriamente la pregunta de investigación principal, a
+saber: ¿Por qué algunos hijos ausentes de Temacapulín, Jalisco, México no retornan?
+Segundo. Explorar la operatividad del concepto de hijos ausentes en los estudios de
+migración en México.
+Tercero. Abordar desde los ángulos macro y microanalítico el fenómeno de las motivaciones
+para emigrar y retornar o no retornar para los casos de estudio
+Cuarto. Exponer las subjetividades involucradas en las decisiones de emigrar y retornar o no
+retornar para los casos de estudio
+Quinto. Abordar el fenómeno del no retorno desde un enfoque que considere a los sujetos
+como parte de la unidad familiar
+Sexto. Explorar la correlación entre emigración, retorno, no retorno y bienestar familiar
+Séptimo. Confrontar los fenómenos de la migración con el desarrollo local de los lugares de
+expulsión
+Los objetivos de la investigación están abiertos a modificación y afinación hasta reducirlos
+a uno principal y tres o cuatro objetivos complementarios.
+Lineamientos teóricos y metodológicos
+Las investigaciones que se plantean un abordaje multidisciplinar de los fenómenos sociales,
+como es el caso, están obligadas a valerse de cierta erudición sobre las teorías y modelos
+explicativos con cierto valor heurístico, que ayuden a resolver los cuestionamientos que los
+científicos sociales le hacen a la “realidad”. En ese sentido, el aspirante se declara un neófito
+ilustrado, es decir, se conocen algunos fundamentos de las teorías y modelos explicativos de
+las ciencias sociales pero no se cuenta con el nivel de erudición necesario para poder hacer
+distinciones y elecciones adecuadas a los objetos de estudio. Al respecto, se aspira a que el
+programa de doctorado contribuya a resolver dicha deficiencia.
+En términos metodológicos se plantea al enfoque cualitativo como la forma más adecuada de
+acercarse a la problemática, tomando en cuenta que uno de los objetivos de la investigación
+cualitativa es, precisamente, analizar fenómenos y acontecimientos desde la complejidad de
+las personas, sus modos de ser y de hacer en la vida cotidiana, y de cómo interpretan la
+complejidad social. De ahí que, con este tipo de abordaje, se pueda conocer no sólo la historia
+y vivencias individuales de los sujetos, sino también su historia y sus procesos colectivos.
+En este sentido, Vasilachis (2006) explica que el proceso de investigación cualitativa parte
+del supuesto fundamental de que es relevante la manera en que el mundo social es construido,
+comprendido y experimentado por la perspectiva de las y los participantes, por sus sentidos,
+por sus significados, por su experiencia, por su conocimiento, por sus relatos. Durante el
+proceso de investigación, se espera acceder a esas historias individuales y colectivas que sean
+la materia prima para sistematizar un mosaico de experiencias a través de su categorización,
+para posteriormente presentar respuestas fundamentadas en teorías y metodologías
+pertinentes a las preguntas de investigación planteadas.
+Se están explorando posibilidades teóricas y metodológicas que contribuyan a lograr los
+objetivos. Para ello, la primera vía tomada es recurrir a estados de la cuestión sobre las teorías
+que intentan abordar la multiplicidad de problemas vinculados a los fenómenos migratorios.
+Otra vía es consultar estados de la cuestión, tesis, artículos y demás documentos académicos
+que abordan los problemas de interés o problemas similares y correlacionados para conocer
+las aplicaciones teóricas y metodológicas utilizadas.
+Al mismo tiempo, se exploran teorías y metodologías de investigación utilizadas para abordar
+subjetividades.
+
