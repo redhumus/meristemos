@@ -13,7 +13,7 @@ do
   echo "|                        |                     |"    
   echo "|1 Otra de  Fortune!!!   | 5 /proc/cpuinfo     |" 
   echo "|2 Entrar a ReDHumus     | 6 Bpytop            |"
-  echo "|3 Entra RH con tunel    | 7  CAL              |"
+  echo "|3 Entra RH con tunel    | 7  Cambia txt       |"
   echo "|4 Actualizar JOSM       | 8  GOTOP            |" 
   echo "|9 NeoFetch              | 10 Journalctl -xe   |"
   echo "|11 Directorios + G      | 12 Archivos + G     |" 
@@ -54,7 +54,7 @@ do
     3) ssh -L 3000:localhost:3000 0mn1bu5@redhumus.org -p 22039;;
      2) ssh  0mn1bu5@redhumus.org -p 22039;;
 
-    4)	sudo mv /home/omnibus/Descargas/josm-tested.jar /usr/share/java/josm/josm.jar  ;;
+    4)	sudo mv /home/omnibus/Downloads/josm-tested.jar /usr/share/java/josm/josm.jar  ;;
 
     5) cat /proc/cpuinfo ;;
  #   5) cd /home/omnibus/apps/PharoLauncher-linux-2.0-x64/pharolauncher
@@ -64,9 +64,10 @@ do
   #     git status;;
   6) bpytop ;;      
 
- 7) cal ;;
+# 7) cal ;;
    # 8) cd /var/lib/tomcat7/webapps/geoserver/bin 
    #     JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64 nohup ./startup.sh & ;;  
+    7) /home/omnibus/Documents/repos/meristemos/proyectos-rh/apps/bash/mayus-minus.sh;;
     8) gotop -s --celsius  ;;
     9) neofetch ;;
     10) sudo journalctl -xe;;
