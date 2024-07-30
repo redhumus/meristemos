@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 28181ba (Update README.md)
 # meristemos
 
 Repository of deveolping project from ReDHumus.org
@@ -11,5 +14,8 @@ Contents:
 
 
 =======
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 28181ba (Update README.md)
